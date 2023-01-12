@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2023-01-12 18:12:07 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:15:12 +0100"
@@ -80,6 +86,12 @@
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:31:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2023-01-12 19:01:21 +0100"
     },
     "done": true
   },
@@ -185,9 +197,21 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2023-01-12 19:33:44 +0100"
+    },
+    "done": false
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2023-01-11 21:57:12 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "phantom": "2023-01-12 18:05:02 +0100"
     },
     "done": true
   },
@@ -265,9 +289,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2023-01-12 20:42:57 +0100",
       "apple": "2023-01-11 22:25:31 +0100",
       "bread": "2023-01-12 13:49:13 +0100",
-      "cookie": "2023-01-12 14:57:47 +0100"
+      "cookie": "2023-01-12 14:57:47 +0100",
+      "cooked_chicken": "2023-01-12 18:56:26 +0100"
     },
     "done": false
   },
@@ -298,6 +324,12 @@
   "mcwdoors:recipes/acacia": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
+    },
+    "done": true
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2023-01-12 20:12:04 +0100"
     },
     "done": true
   },
@@ -334,6 +366,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2023-01-11 21:58:51 +0100"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2023-01-12 19:46:04 +0100"
     },
     "done": true
   },
@@ -385,6 +423,12 @@
     },
     "done": true
   },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2023-01-12 18:46:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2023-01-11 22:28:28 +0100"
@@ -421,9 +465,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-01-12 18:39:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-12 18:13:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2023-01-11 22:58:49 +0100"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2023-01-12 19:09:05 +0100"
     },
     "done": true
   },
@@ -592,10 +654,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2023-01-12 19:00:02 +0100",
       "minecraft:skeleton": "2023-01-11 22:00:36 +0100",
       "minecraft:spider": "2023-01-11 22:00:17 +0100",
       "minecraft:creeper": "2023-01-11 21:57:28 +0100",
       "minecraft:slime": "2023-01-12 14:04:09 +0100",
+      "minecraft:phantom": "2023-01-12 18:05:02 +0100",
       "minecraft:witch": "2023-01-11 21:57:12 +0100",
       "minecraft:husk": "2023-01-11 21:55:26 +0100",
       "minecraft:cave_spider": "2023-01-12 15:08:56 +0100",
@@ -620,6 +684,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2023-01-12 20:45:29 +0100"
     },
     "done": true
   },
@@ -692,6 +762,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2023-01-11 21:26:39 +0100"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2023-01-12 18:13:04 +0100"
     },
     "done": true
   },
@@ -1013,6 +1089,12 @@
     },
     "done": true
   },
+  "hexcasting:root": {
+    "criteria": {
+      "has_charged_amethyst": "2023-01-12 17:58:43 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_mangrove_planks": {
     "criteria": {
       "has_ingredient": "2023-01-11 21:27:50 +0100"
@@ -1085,6 +1167,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2023-01-12 19:33:44 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
@@ -1121,6 +1209,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2023-01-12 18:13:41 +0100",
+      "has_block": "2023-01-12 18:13:41 +0100"
+    },
+    "done": true
+  },
   "silentgear:root": {
     "criteria": {
       "get_item": "2023-01-11 21:31:00 +0100"
@@ -1130,6 +1225,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2023-01-11 21:26:39 +0100"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2023-01-12 19:47:18 +0100"
     },
     "done": true
   },
@@ -1180,7 +1281,10 @@
       "byg:allium_fields": "2023-01-11 22:05:54 +0100",
       "byg:prairie": "2023-01-11 22:06:04 +0100",
       "byg:rainbow_beach": "2023-01-11 21:26:40 +0100",
+      "byg:red_oak_forest": "2023-01-12 18:16:09 +0100",
       "byg:araucaria_savanna": "2023-01-11 21:27:37 +0100",
+      "byg:jacaranda_forest": "2023-01-12 18:27:50 +0100",
+      "byg:aspen_forest": "2023-01-12 18:15:58 +0100",
       "byg:basalt_barrera": "2023-01-12 15:41:40 +0100"
     },
     "done": false
@@ -1203,17 +1307,37 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-01-12 19:53:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:15:12 +0100"
     },
     "done": true
   },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2023-01-12 19:04:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2023-01-12 19:26:54 +0100",
+      "minecraft:sparse_jungle": "2023-01-12 19:20:38 +0100",
       "minecraft:lukewarm_ocean": "2023-01-11 22:05:47 +0100",
       "minecraft:river": "2023-01-11 21:42:44 +0100",
+      "minecraft:dripstone_caves": "2023-01-12 18:10:31 +0100",
+      "minecraft:forest": "2023-01-12 19:34:35 +0100",
+      "minecraft:lush_caves": "2023-01-12 18:28:29 +0100",
       "minecraft:ocean": "2023-01-11 22:05:50 +0100",
+      "minecraft:jungle": "2023-01-12 19:35:34 +0100",
+      "minecraft:old_growth_birch_forest": "2023-01-12 18:16:19 +0100",
+      "minecraft:savanna": "2023-01-12 19:26:53 +0100",
       "minecraft:plains": "2023-01-11 21:29:52 +0100"
     },
     "done": false
@@ -1251,6 +1375,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:12:24 +0100"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2023-01-12 18:54:54 +0100"
     },
     "done": true
   },
@@ -1314,6 +1444,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2023-01-12 18:22:37 +0100"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2023-01-11 21:27:50 +0100"
@@ -1323,6 +1459,12 @@
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:26:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-01-12 19:53:38 +0100"
     },
     "done": true
   },
@@ -1380,6 +1522,12 @@
     },
     "done": true
   },
+  "mekanismgenerators:burn_the_gas": {
+    "criteria": {
+      "gas_burning_generator": "2023-01-12 21:05:31 +0100"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2023-01-11 21:26:39 +0100"
@@ -1410,6 +1558,12 @@
     },
     "done": true
   },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2023-01-12 19:46:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:31:05 +0100"
@@ -1419,6 +1573,12 @@
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:26:39 +0100"
+    },
+    "done": true
+  },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2023-01-12 19:56:14 +0100"
     },
     "done": true
   },
@@ -1443,6 +1603,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:26:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-12 18:13:41 +0100"
     },
     "done": true
   },

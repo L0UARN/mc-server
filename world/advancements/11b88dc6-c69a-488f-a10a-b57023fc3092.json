@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/inert_crystal": {
+    "criteria": {
+      "has_inert_crystal": "2023-01-12 21:04:02 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/jungle": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
@@ -68,6 +74,12 @@
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:34:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2023-01-12 20:47:01 +0100"
     },
     "done": true
   },
@@ -119,9 +131,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "mcwdoors:recipes/spruce": {
     "criteria": {
-      "coded_trigger": "2023-01-11 22:13:24 +0100"
+      "has_planks": "2023-01-11 21:34:13 +0100"
     },
     "done": true
   },
@@ -131,7 +143,13 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/spruce": {
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2023-01-11 22:13:24 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
     },
@@ -140,12 +158,6 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2023-01-11 22:01:02 +0100"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/spruce": {
-    "criteria": {
-      "has_planks": "2023-01-11 21:34:13 +0100"
     },
     "done": true
   },
@@ -179,9 +191,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2023-01-12 20:29:38 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/water_shard": {
+    "criteria": {
+      "has_water_shard": "2023-01-12 20:24:59 +0100"
     },
     "done": true
   },
@@ -233,7 +257,9 @@
       "cooked_beef": "2023-01-11 22:08:28 +0100",
       "beef": "2023-01-11 21:51:02 +0100",
       "apple": "2023-01-11 22:49:28 +0100",
+      "golden_apple": "2023-01-12 20:48:06 +0100",
       "glow_berries": "2023-01-11 23:01:10 +0100",
+      "enchanted_golden_apple": "2023-01-12 19:22:31 +0100",
       "rabbit_stew": "2023-01-11 22:53:20 +0100",
       "carrot": "2023-01-11 22:05:40 +0100"
     },
@@ -371,6 +397,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2023-01-12 20:29:50 +0100"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/root": {
     "criteria": {
       "supply_ship_placed": "2023-01-11 22:40:54 +0100"
@@ -395,15 +427,15 @@
     },
     "done": true
   },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2023-01-11 22:48:14 +0100"
-    },
-    "done": true
-  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2023-01-11 22:27:21 +0100"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2023-01-11 22:48:14 +0100"
     },
     "done": true
   },
@@ -425,27 +457,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2023-01-11 21:34:48 +0100"
-    },
-    "done": true
-  },
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2023-01-11 21:34:13 +0100"
     },
     "done": true
   },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2023-01-11 21:52:03 +0100"
-    },
-    "done": true
-  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-11 21:34:48 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2023-01-11 21:52:03 +0100"
     },
     "done": true
   },
@@ -516,8 +548,13 @@
       "minecraft:skeleton": "2023-01-11 21:44:41 +0100",
       "minecraft:spider": "2023-01-11 21:58:46 +0100",
       "minecraft:creeper": "2023-01-11 21:58:29 +0100",
+      "minecraft:witch": "2023-01-12 19:17:56 +0100",
+      "minecraft:wither_skeleton": "2023-01-12 20:47:33 +0100",
       "minecraft:enderman": "2023-01-11 23:04:07 +0100",
-      "minecraft:zombie": "2023-01-11 21:51:42 +0100"
+      "minecraft:silverfish": "2023-01-12 20:41:30 +0100",
+      "minecraft:stray": "2023-01-12 20:24:57 +0100",
+      "minecraft:zombie": "2023-01-11 21:51:42 +0100",
+      "minecraft:drowned": "2023-01-12 19:19:29 +0100"
     },
     "done": false
   },
@@ -563,15 +600,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2023-01-11 22:04:06 +0100"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/warped_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-01-11 22:04:06 +0100"
     },
     "done": true
   },
@@ -599,21 +636,27 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2023-01-12 20:25:02 +0100"
+    },
+    "done": true
+  },
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2023-01-11 21:25:48 +0100"
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2023-01-11 22:03:48 +0100"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2023-01-11 21:51:30 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2023-01-11 22:03:48 +0100"
     },
     "done": true
   },
@@ -773,6 +816,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/powerful_water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2023-01-12 20:24:59 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
@@ -929,6 +978,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2023-01-12 19:14:43 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
@@ -974,6 +1029,13 @@
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2023-01-12 19:26:43 +0100",
+      "has_block": "2023-01-12 19:26:43 +0100"
     },
     "done": true
   },
@@ -1052,7 +1114,10 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:rainbow_beach": "2023-01-11 21:33:30 +0100",
-      "byg:araucaria_savanna": "2023-01-11 21:25:48 +0100"
+      "byg:allium_fields": "2023-01-12 19:16:11 +0100",
+      "byg:prairie": "2023-01-12 19:16:41 +0100",
+      "byg:araucaria_savanna": "2023-01-11 21:25:48 +0100",
+      "byg:basalt_barrera": "2023-01-12 19:17:38 +0100"
     },
     "done": false
   },
@@ -1080,19 +1145,22 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2023-01-12 19:17:59 +0100",
+      "minecraft:lukewarm_ocean": "2023-01-11 21:59:21 +0100",
+      "minecraft:river": "2023-01-11 21:42:36 +0100",
+      "minecraft:stony_shore": "2023-01-12 19:19:04 +0100",
+      "minecraft:ocean": "2023-01-12 19:16:03 +0100",
+      "minecraft:plains": "2023-01-11 21:44:33 +0100"
+    },
+    "done": false
+  },
   "ars_elemental:summon_strider": {
     "criteria": {
       "summon_strider": "2023-01-11 22:59:11 +0100"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:lukewarm_ocean": "2023-01-11 21:59:21 +0100",
-      "minecraft:river": "2023-01-11 21:42:36 +0100",
-      "minecraft:plains": "2023-01-11 21:44:33 +0100"
-    },
-    "done": false
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -1148,6 +1216,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2023-01-12 20:24:11 +0100"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2023-01-11 21:34:13 +0100"
@@ -1181,6 +1255,12 @@
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_earth_shard": {
+    "criteria": {
+      "has_powerful_earth_shard": "2023-01-12 20:47:46 +0100"
     },
     "done": true
   },
@@ -1232,6 +1312,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2023-01-12 20:45:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:34:48 +0100"
@@ -1259,6 +1345,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-12 19:26:43 +0100"
     },
     "done": true
   },
@@ -1334,15 +1426,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2023-01-11 22:03:48 +0100"
-    },
-    "done": true
-  },
   "corail_woodcutter:recipes/from_oak_planks": {
     "criteria": {
       "has_ingredient": "2023-01-11 21:34:48 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2023-01-11 22:03:48 +0100"
     },
     "done": true
   },

@@ -1,0 +1,24 @@
+{
+	id: "119f0974-9ed0-4e87-9e03-749dbce702a5"
+	type: "player"
+	player_name: "Sabl0_"
+	ranks: {
+		119f0974-9ed0-4e87-9e03-749dbce702a5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sabl0_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7C59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}
