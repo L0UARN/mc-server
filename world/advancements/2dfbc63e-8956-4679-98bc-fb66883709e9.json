@@ -302,6 +302,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2023-01-12 20:42:57 +0100",
+      "baked_potato": "2023-01-13 22:14:13 +0100",
       "apple": "2023-01-11 22:25:31 +0100",
       "bread": "2023-01-12 13:49:13 +0100",
       "cookie": "2023-01-12 14:57:47 +0100",
@@ -384,6 +385,12 @@
   "integrateddynamics:root": {
     "criteria": {
       "criteria_0": "2023-01-12 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2023-01-13 22:33:37 +0100"
     },
     "done": true
   },
@@ -704,6 +711,7 @@
     "criteria": {
       "minecraft:pillager": "2023-01-12 19:00:02 +0100",
       "minecraft:skeleton": "2023-01-11 22:00:36 +0100",
+      "minecraft:vindicator": "2023-01-13 22:33:43 +0100",
       "minecraft:spider": "2023-01-11 22:00:17 +0100",
       "minecraft:creeper": "2023-01-11 21:57:28 +0100",
       "minecraft:slime": "2023-01-12 14:04:09 +0100",
@@ -859,6 +867,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:26:39 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2023-01-13 21:31:55 +0100"
     },
     "done": true
   },
@@ -1057,6 +1071,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2023-01-11 21:27:50 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2023-01-13 22:33:23 +0100"
     },
     "done": true
   },
@@ -1301,6 +1321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 22:34:31 +0100"
+    },
+    "done": true
+  },
   "naturesaura:positive_imbalance": {
     "criteria": {
       "triggered_in_code": "2023-01-12 19:47:18 +0100"
@@ -1355,10 +1381,15 @@
       "byg:prairie": "2023-01-11 22:06:04 +0100",
       "byg:rainbow_beach": "2023-01-11 21:26:40 +0100",
       "byg:red_oak_forest": "2023-01-12 18:16:09 +0100",
+      "byg:cika_woods": "2023-01-13 21:25:18 +0100",
       "byg:araucaria_savanna": "2023-01-11 21:27:37 +0100",
       "byg:jacaranda_forest": "2023-01-12 18:27:50 +0100",
+      "byg:autumnal_valley": "2023-01-13 21:23:25 +0100",
       "byg:aspen_forest": "2023-01-12 18:15:58 +0100",
-      "byg:basalt_barrera": "2023-01-12 15:41:40 +0100"
+      "byg:twilight_meadow": "2023-01-13 21:23:20 +0100",
+      "byg:basalt_barrera": "2023-01-12 15:41:40 +0100",
+      "byg:lush_stacks": "2023-01-13 22:34:46 +0100",
+      "byg:temperate_rainforest": "2023-01-13 21:21:10 +0100"
     },
     "done": false
   },
@@ -1400,7 +1431,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-01-13 21:26:03 +0100",
+      "minecraft:taiga": "2023-01-13 21:27:15 +0100",
+      "minecraft:birch_forest": "2023-01-13 21:31:46 +0100",
       "minecraft:beach": "2023-01-12 19:26:54 +0100",
+      "minecraft:dark_forest": "2023-01-13 21:21:39 +0100",
       "minecraft:sparse_jungle": "2023-01-12 19:20:38 +0100",
       "minecraft:lukewarm_ocean": "2023-01-11 22:05:47 +0100",
       "minecraft:river": "2023-01-11 21:42:44 +0100",
@@ -1409,6 +1444,7 @@
       "minecraft:lush_caves": "2023-01-12 18:28:29 +0100",
       "minecraft:ocean": "2023-01-11 22:05:50 +0100",
       "minecraft:jungle": "2023-01-12 19:35:34 +0100",
+      "minecraft:old_growth_spruce_taiga": "2023-01-13 21:25:57 +0100",
       "minecraft:old_growth_birch_forest": "2023-01-12 18:16:19 +0100",
       "minecraft:savanna": "2023-01-12 19:26:53 +0100",
       "minecraft:plains": "2023-01-11 21:29:52 +0100"
@@ -1634,6 +1670,12 @@
   "integrateddynamics:meneglin_basics/meneglin_discovery": {
     "criteria": {
       "criteria_0": "2023-01-12 19:46:06 +0100"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2023-01-13 22:33:57 +0100"
     },
     "done": true
   },
