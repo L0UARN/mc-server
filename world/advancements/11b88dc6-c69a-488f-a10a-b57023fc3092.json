@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2023-01-11 21:25:48 +0100"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-01-13 14:46:52 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/mud_bricks": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
@@ -68,6 +80,12 @@
   "mcwroofs:recipes/birch_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_acacia_planks": {
+    "criteria": {
+      "has_ingredient": "2023-01-13 13:49:51 +0100"
     },
     "done": true
   },
@@ -124,6 +142,12 @@
       "has_planks": "2023-01-11 21:34:13 +0100"
     },
     "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "blackbean_seed": "2023-01-13 15:38:06 +0100"
+    },
+    "done": false
   },
   "ae2:main/root": {
     "criteria": {
@@ -188,6 +212,12 @@
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
     },
     "done": true
   },
@@ -256,6 +286,7 @@
       "cooked_porkchop": "2023-01-11 21:55:09 +0100",
       "cooked_beef": "2023-01-11 22:08:28 +0100",
       "beef": "2023-01-11 21:51:02 +0100",
+      "baked_potato": "2023-01-13 15:50:29 +0100",
       "apple": "2023-01-11 22:49:28 +0100",
       "golden_apple": "2023-01-12 20:48:06 +0100",
       "glow_berries": "2023-01-11 23:01:10 +0100",
@@ -379,6 +410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_stairs_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/acacia": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
@@ -391,15 +428,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2023-01-13 15:41:38 +0100"
+    },
+    "done": true
+  },
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2023-01-11 22:50:54 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2023-01-12 20:29:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-01-13 13:59:49 +0100"
     },
     "done": true
   },
@@ -445,9 +500,21 @@
     },
     "done": true
   },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2023-01-13 14:46:52 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
     },
     "done": true
   },
@@ -496,6 +563,12 @@
   "apotheosis:affix/uncommon": {
     "criteria": {
       "sword": "2023-01-11 21:52:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_trapdoor_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
     },
     "done": true
   },
@@ -550,6 +623,8 @@
       "minecraft:creeper": "2023-01-11 21:58:29 +0100",
       "minecraft:witch": "2023-01-12 19:17:56 +0100",
       "minecraft:wither_skeleton": "2023-01-12 20:47:33 +0100",
+      "minecraft:husk": "2023-01-13 15:18:40 +0100",
+      "minecraft:piglin": "2023-01-13 14:47:53 +0100",
       "minecraft:enderman": "2023-01-11 23:04:07 +0100",
       "minecraft:silverfish": "2023-01-12 20:41:30 +0100",
       "minecraft:stray": "2023-01-12 20:24:57 +0100",
@@ -564,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-01-13 14:46:52 +0100"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2023-01-11 21:25:48 +0100"
@@ -573,6 +654,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2023-01-13 14:22:12 +0100"
     },
     "done": true
   },
@@ -630,6 +717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2023-01-11 21:25:48 +0100"
@@ -663,6 +756,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2023-01-11 21:38:43 +0100"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2023-01-13 15:38:06 +0100"
     },
     "done": true
   },
@@ -723,6 +822,12 @@
   "modonomicon:modonomicon/root": {
     "criteria": {
       "modonomicon_present": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
     },
     "done": true
   },
@@ -804,6 +909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_pressure_plate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2023-01-11 21:34:13 +0100"
@@ -870,9 +981,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2023-01-13 14:07:06 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2023-01-13 14:03:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:34:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
     },
     "done": true
   },
@@ -972,6 +1101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-01-11 21:46:30 +0100"
@@ -1002,6 +1137,18 @@
     },
     "done": true
   },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2023-01-13 15:41:47 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:47 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
@@ -1017,6 +1164,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-01-13 14:44:20 +0100"
     },
     "done": true
   },
@@ -1054,6 +1207,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2023-01-13 15:40:16 +0100"
     },
     "done": true
   },
@@ -1116,7 +1275,9 @@
       "byg:rainbow_beach": "2023-01-11 21:33:30 +0100",
       "byg:allium_fields": "2023-01-12 19:16:11 +0100",
       "byg:prairie": "2023-01-12 19:16:41 +0100",
+      "byg:orchard": "2023-01-13 15:10:59 +0100",
       "byg:araucaria_savanna": "2023-01-11 21:25:48 +0100",
+      "byg:aspen_forest": "2023-01-13 14:59:43 +0100",
       "byg:basalt_barrera": "2023-01-12 19:17:38 +0100"
     },
     "done": false
@@ -1139,6 +1300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-01-11 21:42:00 +0100"
@@ -1151,6 +1318,7 @@
       "minecraft:lukewarm_ocean": "2023-01-11 21:59:21 +0100",
       "minecraft:river": "2023-01-11 21:42:36 +0100",
       "minecraft:stony_shore": "2023-01-12 19:19:04 +0100",
+      "minecraft:forest": "2023-01-13 15:25:02 +0100",
       "minecraft:ocean": "2023-01-12 19:16:03 +0100",
       "minecraft:plains": "2023-01-11 21:44:33 +0100"
     },
@@ -1336,6 +1504,12 @@
     },
     "done": false
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-01-13 14:46:53 +0100"
+    },
+    "done": false
+  },
   "elementalcraft:pickup/earth_shard": {
     "criteria": {
       "has_earth_shard": "2023-01-11 21:52:19 +0100"
@@ -1363,6 +1537,12 @@
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_sign_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
     },
     "done": true
   },
@@ -1411,6 +1591,18 @@
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:34:48 +0100"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "blackbean_seed": "2023-01-13 15:38:06 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:51 +0100"
     },
     "done": true
   },

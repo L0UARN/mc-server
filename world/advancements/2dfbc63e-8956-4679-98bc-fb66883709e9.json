@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-01-13 14:47:45 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/mud_bricks": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
@@ -80,6 +86,12 @@
   "corail_woodcutter:recipes/from_acacia_planks": {
     "criteria": {
       "has_ingredient": "2023-01-11 22:15:12 +0100"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2023-01-13 14:14:41 +0100"
     },
     "done": true
   },
@@ -405,6 +417,12 @@
     },
     "done": true
   },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2023-01-13 14:11:08 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:26:39 +0100"
@@ -426,6 +444,18 @@
   "mekanism:logistical_sorter": {
     "criteria": {
       "logistical_sorter": "2023-01-12 18:46:42 +0100"
+    },
+    "done": true
+  },
+  "mekanism:chemical_transport": {
+    "criteria": {
+      "basic_pressurized_tube": "2023-01-13 14:11:01 +0100"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2023-01-13 15:13:39 +0100"
     },
     "done": true
   },
@@ -465,15 +495,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "slept_in_bed": "2023-01-12 18:39:30 +0100"
+      "coded_trigger": "2023-01-13 15:06:35 +0100"
     },
     "done": true
   },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-12 18:13:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-01-12 18:39:30 +0100"
     },
     "done": true
   },
@@ -534,6 +570,12 @@
   "pneumaticcraft:root": {
     "criteria": {
       "0": "2023-01-11 22:20:14 +0100"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2023-01-13 14:47:45 +0100"
     },
     "done": true
   },
@@ -609,6 +651,12 @@
     },
     "done": true
   },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2023-01-13 16:01:05 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:26:39 +0100"
@@ -663,6 +711,7 @@
       "minecraft:witch": "2023-01-11 21:57:12 +0100",
       "minecraft:husk": "2023-01-11 21:55:26 +0100",
       "minecraft:cave_spider": "2023-01-12 15:08:56 +0100",
+      "minecraft:piglin": "2023-01-13 14:47:55 +0100",
       "minecraft:silverfish": "2023-01-12 14:16:26 +0100",
       "minecraft:zombie": "2023-01-11 21:54:50 +0100",
       "minecraft:zombie_villager": "2023-01-11 22:44:58 +0100"
@@ -675,6 +724,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-01-13 14:47:45 +0100"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2023-01-11 21:26:39 +0100"
@@ -684,6 +739,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2023-01-13 14:22:07 +0100"
     },
     "done": true
   },
@@ -828,6 +889,12 @@
   "mcwroofs:recipes/sandstone": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2023-01-13 14:19:32 +0100"
     },
     "done": true
   },
@@ -1166,6 +1233,12 @@
       "give_recipe": "2023-01-11 22:13:30 +0100"
     },
     "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2023-01-13 15:47:47 +0100"
+    },
+    "done": false
   },
   "betterdungeons:small_dungeon": {
     "criteria": {
@@ -1581,6 +1654,12 @@
       "teleportation_core": "2023-01-12 19:56:14 +0100"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-01-13 14:47:45 +0100"
+    },
+    "done": false
   },
   "elementalcraft:pickup/earth_shard": {
     "criteria": {
