@@ -410,6 +410,12 @@
     },
     "done": true
   },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2023-01-14 23:02:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:30:01 +0100"
@@ -976,6 +982,12 @@
     },
     "done": true
   },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_dissolution_chamber": "2023-01-14 23:03:15 +0100"
+    },
+    "done": false
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:26:39 +0100"
@@ -1306,6 +1318,12 @@
     },
     "done": true
   },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2023-01-14 22:47:31 +0100"
+    },
+    "done": true
+  },
   "hexcasting:root": {
     "criteria": {
       "has_charged_amethyst": "2023-01-12 17:58:43 +0100"
@@ -1405,6 +1423,12 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2023-01-14 13:12:08 +0100"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2023-01-14 22:56:46 +0100"
     },
     "done": true
   },

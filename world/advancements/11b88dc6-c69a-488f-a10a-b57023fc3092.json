@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "ae2:main/compass": {
+    "criteria": {
+      "compass": "2023-01-14 22:13:07 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
@@ -289,6 +295,7 @@
       "baked_potato": "2023-01-13 15:50:29 +0100",
       "apple": "2023-01-11 22:49:28 +0100",
       "golden_apple": "2023-01-12 20:48:06 +0100",
+      "bread": "2023-01-14 21:53:06 +0100",
       "glow_berries": "2023-01-11 23:01:10 +0100",
       "enchanted_golden_apple": "2023-01-12 19:22:31 +0100",
       "rabbit_stew": "2023-01-11 22:53:20 +0100",
@@ -362,6 +369,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2023-01-14 22:50:16 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_canopy_planks": {
     "criteria": {
       "has_ingredient": "2023-01-11 21:34:13 +0100"
@@ -386,9 +399,21 @@
     },
     "done": true
   },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2023-01-14 22:12:37 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_twilight_oak_planks": {
     "criteria": {
       "has_ingredient": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-01-14 22:08:53 +0100"
     },
     "done": true
   },
@@ -419,6 +444,12 @@
   "mcwroofs:recipes/acacia": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2023-01-14 22:39:59 +0100"
     },
     "done": true
   },
@@ -981,15 +1012,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2023-01-13 14:07:06 +0100"
-    },
-    "done": true
-  },
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2023-01-13 14:03:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2023-01-13 14:07:06 +0100"
     },
     "done": true
   },
@@ -1047,6 +1078,15 @@
     },
     "done": true
   },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2023-01-14 22:28:56 +0100",
+      "silicon": "2023-01-14 22:29:00 +0100",
+      "engineering": "2023-01-14 22:28:57 +0100",
+      "logic": "2023-01-14 22:28:57 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2023-01-11 21:34:13 +0100"
@@ -1062,6 +1102,12 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2023-01-14 22:47:16 +0100"
     },
     "done": true
   },
@@ -1137,15 +1183,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-13 13:49:47 +0100"
+    },
+    "done": true
+  },
   "silentgear:crimson_iron": {
     "criteria": {
       "get_ingot": "2023-01-13 15:41:47 +0100"
     },
     "done": false
   },
-  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+  "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
-      "give_recipe": "2023-01-13 13:49:47 +0100"
+      "has_enchanted_voodoo_poppet": "2023-01-14 22:50:16 +0100"
     },
     "done": true
   },
@@ -1278,7 +1330,8 @@
       "byg:orchard": "2023-01-13 15:10:59 +0100",
       "byg:araucaria_savanna": "2023-01-11 21:25:48 +0100",
       "byg:aspen_forest": "2023-01-13 14:59:43 +0100",
-      "byg:basalt_barrera": "2023-01-12 19:17:38 +0100"
+      "byg:basalt_barrera": "2023-01-12 19:17:38 +0100",
+      "byg:lush_stacks": "2023-01-14 21:58:22 +0100"
     },
     "done": false
   },
@@ -1315,6 +1368,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2023-01-12 19:17:59 +0100",
+      "minecraft:sparse_jungle": "2023-01-14 21:57:00 +0100",
       "minecraft:lukewarm_ocean": "2023-01-11 21:59:21 +0100",
       "minecraft:river": "2023-01-11 21:42:36 +0100",
       "minecraft:stony_shore": "2023-01-12 19:19:04 +0100",
@@ -1486,6 +1540,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2023-01-14 22:22:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:34:48 +0100"
@@ -1615,6 +1675,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2023-01-14 22:31:59 +0100"
     },
     "done": true
   },
