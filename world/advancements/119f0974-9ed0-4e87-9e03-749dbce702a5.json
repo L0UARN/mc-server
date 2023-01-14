@@ -114,6 +114,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2023-01-14 13:56:34 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/mud_bricks": {
     "criteria": {
       "has_planks": "2023-01-12 19:32:00 +0100"
@@ -231,9 +237,11 @@
   "croptopia:gather_all": {
     "criteria": {
       "sweetpotato_seed": "2023-01-12 21:08:28 +0100",
+      "turnip_seed": "2023-01-14 16:07:01 +0100",
       "honeydew_seed": "2023-01-12 20:39:09 +0100",
       "kiwi_seed": "2023-01-12 20:39:09 +0100",
-      "grape_seed": "2023-01-12 20:39:09 +0100"
+      "grape_seed": "2023-01-12 20:39:09 +0100",
+      "asparagus_seed": "2023-01-14 16:07:01 +0100"
     },
     "done": false
   },
@@ -419,6 +427,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-01-14 15:28:10 +0100",
       "cooked_mutton": "2023-01-12 19:36:08 +0100",
       "cooked_beef": "2023-01-12 19:53:09 +0100",
       "baked_potato": "2023-01-13 14:19:50 +0100",
@@ -633,6 +642,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2023-01-14 13:57:44 +0100"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2023-01-12 20:31:33 +0100"
@@ -723,6 +738,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2023-01-14 14:08:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2023-01-12 19:38:50 +0100"
@@ -731,7 +752,9 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "toast": "2023-01-12 19:46:54 +0100"
+      "toast": "2023-01-12 19:46:54 +0100",
+      "cooked_tuna": "2023-01-14 16:26:50 +0100",
+      "tuna": "2023-01-14 16:26:50 +0100"
     },
     "done": false
   },
@@ -833,6 +856,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2023-01-14 13:52:25 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-12 19:25:36 +0100"
@@ -843,9 +872,12 @@
     "criteria": {
       "minecraft:pillager": "2023-01-12 20:58:53 +0100",
       "minecraft:skeleton": "2023-01-12 19:44:41 +0100",
+      "minecraft:ravager": "2023-01-14 13:44:25 +0100",
       "minecraft:hoglin": "2023-01-13 14:21:29 +0100",
+      "minecraft:vindicator": "2023-01-14 13:45:22 +0100",
       "minecraft:spider": "2023-01-12 19:38:50 +0100",
       "minecraft:creeper": "2023-01-12 19:55:53 +0100",
+      "minecraft:slime": "2023-01-14 14:20:18 +0100",
       "minecraft:phantom": "2023-01-13 14:20:15 +0100",
       "minecraft:zombified_piglin": "2023-01-13 15:56:27 +0100",
       "minecraft:witch": "2023-01-13 14:18:31 +0100",
@@ -893,6 +925,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_planks": "2023-01-12 19:32:00 +0100"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2023-01-14 15:53:06 +0100"
     },
     "done": true
   },
@@ -1124,6 +1162,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_ocean": "2023-01-14 16:21:56 +0100"
+    },
+    "done": false
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2023-01-12 20:05:30 +0100"
@@ -1214,6 +1258,12 @@
     },
     "done": true
   },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "asparagus_seed": "2023-01-14 16:07:01 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-13 14:32:40 +0100"
@@ -1259,6 +1309,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2023-01-12 19:32:00 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2023-01-14 16:18:46 +0100"
     },
     "done": true
   },
@@ -1585,6 +1641,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-14 16:10:00 +0100"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2023-01-14 16:27:52 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-12 19:25:36 +0100"
@@ -1634,7 +1702,9 @@
       "byg:prairie": "2023-01-13 14:48:33 +0100",
       "byg:orchard": "2023-01-13 14:09:58 +0100",
       "byg:red_oak_forest": "2023-01-13 14:45:40 +0100",
+      "byg:white_mangrove_marshes": "2023-01-14 14:10:07 +0100",
       "byg:araucaria_savanna": "2023-01-12 19:25:37 +0100",
+      "byg:bayou": "2023-01-14 14:09:46 +0100",
       "byg:aspen_forest": "2023-01-13 14:02:47 +0100",
       "byg:cherry_blossom_forest": "2023-01-12 21:00:11 +0100",
       "byg:forgotten_forest": "2023-01-13 14:48:52 +0100",
@@ -1678,17 +1748,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2023-01-14 16:27:46 +0100",
+      "minecraft:deep_ocean": "2023-01-14 16:21:31 +0100",
       "minecraft:sunflower_plains": "2023-01-13 14:49:41 +0100",
       "minecraft:birch_forest": "2023-01-13 15:01:40 +0100",
+      "minecraft:windswept_hills": "2023-01-14 13:57:28 +0100",
+      "minecraft:bamboo_jungle": "2023-01-14 15:38:09 +0100",
       "minecraft:beach": "2023-01-12 21:09:43 +0100",
+      "minecraft:dark_forest": "2023-01-14 14:11:44 +0100",
+      "minecraft:mangrove_swamp": "2023-01-14 14:10:54 +0100",
       "minecraft:sparse_jungle": "2023-01-13 15:37:00 +0100",
       "minecraft:lukewarm_ocean": "2023-01-12 19:54:21 +0100",
       "minecraft:river": "2023-01-12 19:29:30 +0100",
       "minecraft:stony_shore": "2023-01-13 14:03:41 +0100",
       "minecraft:dripstone_caves": "2023-01-13 15:50:14 +0100",
+      "minecraft:swamp": "2023-01-14 15:31:55 +0100",
       "minecraft:forest": "2023-01-12 21:09:46 +0100",
+      "minecraft:deep_cold_ocean": "2023-01-14 16:24:36 +0100",
+      "minecraft:windswept_forest": "2023-01-14 13:57:38 +0100",
       "minecraft:ocean": "2023-01-12 20:09:42 +0100",
       "minecraft:jungle": "2023-01-13 15:42:31 +0100",
+      "minecraft:windswept_savanna": "2023-01-14 15:27:32 +0100",
       "minecraft:deep_lukewarm_ocean": "2023-01-13 21:48:38 +0100",
       "minecraft:flower_forest": "2023-01-13 14:49:04 +0100",
       "minecraft:old_growth_birch_forest": "2023-01-13 14:07:31 +0100",
@@ -1832,7 +1912,8 @@
   },
   "croptopia:gather_jungle": {
     "criteria": {
-      "honeydew_seed": "2023-01-12 20:39:09 +0100"
+      "honeydew_seed": "2023-01-12 20:39:09 +0100",
+      "turnip_seed": "2023-01-14 16:07:01 +0100"
     },
     "done": false
   },
@@ -1980,6 +2061,12 @@
     },
     "done": true
   },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2023-01-14 15:48:18 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_birch_planks": {
     "criteria": {
       "has_ingredient": "2023-01-12 19:49:38 +0100"
@@ -2055,6 +2142,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2023-01-12 19:25:36 +0100"
+    },
+    "done": true
+  },
+  "croptopia:salt": {
+    "criteria": {
+      "salt": "2023-01-14 15:26:28 +0100"
     },
     "done": true
   },
