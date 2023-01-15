@@ -114,6 +114,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-01-15 14:05:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2023-01-14 13:56:34 +0100"
@@ -319,6 +325,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_spider_dungeon": "2023-01-15 15:53:54 +0100",
       "in_better_skeleton_dungeon": "2023-01-12 20:44:13 +0100"
     },
     "done": false
@@ -413,6 +420,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2023-01-15 14:35:32 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2023-01-12 19:32:00 +0100"
@@ -431,9 +444,12 @@
       "cooked_mutton": "2023-01-12 19:36:08 +0100",
       "cooked_beef": "2023-01-12 19:53:09 +0100",
       "baked_potato": "2023-01-13 14:19:50 +0100",
+      "spider_eye": "2023-01-15 15:22:31 +0100",
+      "potato": "2023-01-15 15:22:25 +0100",
       "bread": "2023-01-12 20:33:25 +0100",
       "golden_apple": "2023-01-12 20:49:29 +0100",
-      "golden_carrot": "2023-01-13 14:34:29 +0100"
+      "golden_carrot": "2023-01-13 14:34:29 +0100",
+      "carrot": "2023-01-15 15:46:55 +0100"
     },
     "done": false
   },
@@ -570,6 +586,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2023-01-15 14:35:51 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2023-01-12 19:25:36 +0100"
@@ -660,6 +682,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2023-01-15 14:36:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-01-13 13:59:17 +0100"
@@ -669,6 +697,12 @@
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-13 14:48:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-01-15 13:41:42 +0100"
     },
     "done": true
   },
@@ -720,6 +754,12 @@
     },
     "done": true
   },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2023-01-15 14:05:44 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2023-01-12 19:32:00 +0100"
@@ -752,8 +792,10 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "cooked_calamari": "2023-01-15 13:23:11 +0100",
       "toast": "2023-01-12 19:46:54 +0100",
       "cooked_tuna": "2023-01-14 16:26:50 +0100",
+      "calamari": "2023-01-15 13:03:04 +0100",
       "tuna": "2023-01-14 16:26:50 +0100"
     },
     "done": false
@@ -875,14 +917,18 @@
       "minecraft:ravager": "2023-01-14 13:44:25 +0100",
       "minecraft:hoglin": "2023-01-13 14:21:29 +0100",
       "minecraft:vindicator": "2023-01-14 13:45:22 +0100",
+      "minecraft:magma_cube": "2023-01-15 14:06:38 +0100",
       "minecraft:spider": "2023-01-12 19:38:50 +0100",
+      "minecraft:piglin_brute": "2023-01-15 14:30:54 +0100",
       "minecraft:creeper": "2023-01-12 19:55:53 +0100",
       "minecraft:slime": "2023-01-14 14:20:18 +0100",
+      "minecraft:evoker": "2023-01-15 15:06:52 +0100",
       "minecraft:phantom": "2023-01-13 14:20:15 +0100",
       "minecraft:zombified_piglin": "2023-01-13 15:56:27 +0100",
       "minecraft:witch": "2023-01-13 14:18:31 +0100",
       "minecraft:wither_skeleton": "2023-01-13 14:20:17 +0100",
       "minecraft:cave_spider": "2023-01-13 15:49:31 +0100",
+      "minecraft:piglin": "2023-01-15 14:13:08 +0100",
       "minecraft:silverfish": "2023-01-13 14:04:24 +0100",
       "minecraft:stray": "2023-01-13 14:52:01 +0100",
       "minecraft:enderman": "2023-01-13 21:13:04 +0100",
@@ -907,6 +953,12 @@
   "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-13 15:46:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-01-15 14:05:44 +0100"
     },
     "done": true
   },
@@ -1102,6 +1154,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2023-01-15 15:53:54 +0100"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2023-01-12 19:52:03 +0100"
@@ -1282,6 +1340,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2023-01-15 15:18:29 +0100"
+    },
+    "done": true
+  },
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2023-01-12 19:50:17 +0100"
@@ -1339,6 +1403,12 @@
   "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-12 19:49:38 +0100"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2023-01-15 14:36:23 +0100"
     },
     "done": true
   },
@@ -1671,6 +1741,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2023-01-15 15:53:15 +0100"
+    },
+    "done": true
+  },
   "apotheosis:affix/common": {
     "criteria": {
       "sword": "2023-01-12 19:32:02 +0100"
@@ -1700,17 +1776,22 @@
       "byg:allium_fields": "2023-01-12 21:08:58 +0100",
       "byg:rainbow_beach": "2023-01-12 19:28:44 +0100",
       "byg:prairie": "2023-01-13 14:48:33 +0100",
+      "byg:temperate_grove": "2023-01-15 15:54:59 +0100",
       "byg:orchard": "2023-01-13 14:09:58 +0100",
       "byg:red_oak_forest": "2023-01-13 14:45:40 +0100",
       "byg:white_mangrove_marshes": "2023-01-14 14:10:07 +0100",
       "byg:araucaria_savanna": "2023-01-12 19:25:37 +0100",
+      "byg:wailing_garth": "2023-01-15 14:10:36 +0100",
       "byg:bayou": "2023-01-14 14:09:46 +0100",
+      "byg:dacite_ridges": "2023-01-15 15:41:43 +0100",
       "byg:aspen_forest": "2023-01-13 14:02:47 +0100",
       "byg:cherry_blossom_forest": "2023-01-12 21:00:11 +0100",
       "byg:forgotten_forest": "2023-01-13 14:48:52 +0100",
       "byg:baobab_savanna": "2023-01-13 22:34:42 +0100",
       "byg:amaranth_fields": "2023-01-12 21:00:20 +0100",
+      "byg:brimstone_caverns": "2023-01-15 14:06:19 +0100",
       "byg:ebony_woods": "2023-01-13 22:39:27 +0100",
+      "byg:weeping_mire": "2023-01-15 14:10:35 +0100",
       "byg:basalt_barrera": "2023-01-12 21:09:33 +0100",
       "byg:lush_stacks": "2023-01-13 21:10:54 +0100"
     },
@@ -1764,6 +1845,7 @@
       "minecraft:dripstone_caves": "2023-01-13 15:50:14 +0100",
       "minecraft:swamp": "2023-01-14 15:31:55 +0100",
       "minecraft:forest": "2023-01-12 21:09:46 +0100",
+      "minecraft:lush_caves": "2023-01-15 15:16:41 +0100",
       "minecraft:deep_cold_ocean": "2023-01-14 16:24:36 +0100",
       "minecraft:windswept_forest": "2023-01-14 13:57:38 +0100",
       "minecraft:ocean": "2023-01-12 20:09:42 +0100",
@@ -1862,6 +1944,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2023-01-15 14:30:13 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-12 19:25:36 +0100"
@@ -1889,6 +1977,12 @@
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2023-01-12 20:06:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-01-15 14:30:01 +0100"
     },
     "done": true
   },
@@ -2007,6 +2101,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2023-01-15 14:36:23 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2023-01-12 19:32:00 +0100"
@@ -2048,6 +2148,12 @@
       "has_the_recipe": "2023-01-12 19:25:36 +0100"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-01-15 14:05:44 +0100"
+    },
+    "done": false
   },
   "elementalcraft:pickup/earth_shard": {
     "criteria": {

@@ -247,6 +247,12 @@
     },
     "done": true
   },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2023-01-15 12:20:10 +0100"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
@@ -355,10 +361,12 @@
       "cooked_beef": "2023-01-14 14:14:06 +0100",
       "baked_potato": "2023-01-13 22:14:13 +0100",
       "apple": "2023-01-11 22:25:31 +0100",
+      "cooked_cod": "2023-01-15 13:44:41 +0100",
       "bread": "2023-01-12 13:49:13 +0100",
       "cookie": "2023-01-12 14:57:47 +0100",
       "glow_berries": "2023-01-14 17:29:37 +0100",
-      "cooked_chicken": "2023-01-12 18:56:26 +0100"
+      "cooked_chicken": "2023-01-12 18:56:26 +0100",
+      "cod": "2023-01-15 13:38:45 +0100"
     },
     "done": false
   },
@@ -862,6 +870,12 @@
     },
     "done": true
   },
+  "mekanism:injection_chamber": {
+    "criteria": {
+      "chemical_injection_chamber": "2023-01-15 11:55:44 +0100"
+    },
+    "done": true
+  },
   "mekanism:fluid_tank": {
     "criteria": {
       "basic_fluid_tank": "2023-01-12 20:45:29 +0100"
@@ -1177,6 +1191,12 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2023-01-12 13:48:21 +0100"
+    },
+    "done": true
+  },
+  "mekanismgenerators:solar_generator": {
+    "criteria": {
+      "solar_generator": "2023-01-15 14:27:18 +0100"
     },
     "done": true
   },
