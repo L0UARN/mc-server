@@ -937,6 +937,12 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2023-01-16 18:47:04 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/warped_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
@@ -1996,6 +2002,12 @@
   "mekanism:infused_alloy": {
     "criteria": {
       "alloy_infused": "2023-01-12 14:03:37 +0100"
+    },
+    "done": true
+  },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2023-01-16 18:47:04 +0100"
     },
     "done": true
   },
