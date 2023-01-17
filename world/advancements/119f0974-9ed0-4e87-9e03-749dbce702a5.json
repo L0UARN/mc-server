@@ -643,6 +643,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2023-01-17 19:43:22 +0100"
+    },
+    "done": false
+  },
   "croptopia:getseeds": {
     "criteria": {
       "has_seeds": "2023-01-12 20:39:09 +0100"
@@ -1001,6 +1007,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2023-01-17 19:36:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
     "criteria": {
       "give_recipe": "2023-01-13 13:48:57 +0100",
@@ -1074,6 +1086,14 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2023-01-17 19:32:20 +0100",
+      "trophy": "2023-01-17 19:32:43 +0100",
+      "was_in_fight": "2023-01-17 19:32:20 +0100"
+    },
+    "done": false
+  },
   "silentgear:crimson_steel": {
     "criteria": {
       "get_item": "2023-01-15 21:12:24 +0100"
@@ -1133,9 +1153,16 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2023-01-17 18:57:47 +0100",
       "kill_lich": "2023-01-16 20:05:49 +0100"
     },
-    "done": false
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_fire_shard": {
+    "criteria": {
+      "has_powerful_fire_shard": "2023-01-17 18:56:53 +0100"
+    },
+    "done": true
   },
   "elementalcraft:pickup/drenched_iron_nugget": {
     "criteria": {
@@ -1678,6 +1705,7 @@
       "golden_carrot": "2023-01-13 14:34:29 +0100",
       "cooked_chicken": "2023-01-16 20:21:28 +0100",
       "enchanted_golden_apple": "2023-01-16 20:15:23 +0100",
+      "mushroom_stew": "2023-01-17 18:36:50 +0100",
       "carrot": "2023-01-15 15:46:55 +0100"
     },
     "done": false
@@ -1783,6 +1811,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2023-01-17 18:57:47 +0100"
+    },
+    "done": false
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2023-01-13 14:26:44 +0100"
@@ -1846,6 +1880,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_familiar_receptacle": "2023-01-16 20:06:43 +0100"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_air_shard": {
+    "criteria": {
+      "has_powerful_air_shard": "2023-01-17 20:36:46 +0100"
     },
     "done": true
   },
@@ -2080,6 +2120,12 @@
   "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 20:24:05 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2023-01-17 18:36:50 +0100"
     },
     "done": true
   },
@@ -2412,7 +2458,9 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "raw_venison": "2023-01-16 20:51:43 +0100"
+      "raw_venison": "2023-01-16 20:51:43 +0100",
+      "meef_stroganoff": "2023-01-17 18:57:47 +0100",
+      "maze_wafer": "2023-01-17 18:32:45 +0100"
     },
     "done": false
   },
@@ -2630,9 +2678,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2023-01-16 20:05:49 +0100"
+      "previous_progression": "2023-01-16 20:05:49 +0100",
+      "yeti": "2023-01-17 19:43:22 +0100"
     },
-    "done": false
+    "done": true
   },
   "silentgear:overworld_plants": {
     "criteria": {
@@ -2699,6 +2748,12 @@
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2023-01-12 19:58:19 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:hill3": {
+    "criteria": {
+      "redcap": "2023-01-17 20:40:40 +0100"
     },
     "done": true
   },
