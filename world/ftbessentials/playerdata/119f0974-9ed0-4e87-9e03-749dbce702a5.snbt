@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "twilightforest:twilight_forest", x: -503, y: 7, z: -5496, time: 1673993427047L }
+	last_seen: { dim: "minecraft:overworld", x: -1612, y: 105, z: -8724, time: 1674073826648L }
 	recording: 0
 	teleport_history: [ ]
 	homes: { }

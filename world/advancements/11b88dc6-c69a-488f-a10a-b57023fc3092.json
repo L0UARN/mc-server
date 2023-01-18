@@ -364,6 +364,7 @@
     "criteria": {
       "cooked_porkchop": "2023-01-11 21:55:09 +0100",
       "cooked_beef": "2023-01-11 22:08:28 +0100",
+      "chorus_fruit": "2023-01-18 19:34:14 +0100",
       "beef": "2023-01-11 21:51:02 +0100",
       "baked_potato": "2023-01-13 15:50:29 +0100",
       "porkchop": "2023-01-15 23:04:23 +0100",
@@ -447,6 +448,12 @@
       "has_recipe": "2023-01-11 21:25:48 +0100"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2023-01-18 20:17:54 +0100"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
@@ -899,6 +906,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-01-18 20:20:20 +0100"
+    },
+    "done": true
+  },
   "mekanism:item_transport": {
     "criteria": {
       "basic_logistical_transporter": "2023-01-13 14:22:12 +0100"
@@ -944,6 +957,12 @@
   "mcwroofs:recipes/granite": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2023-01-18 20:02:06 +0100"
     },
     "done": true
   },
@@ -1007,6 +1026,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:minigun": {
+    "criteria": {
+      "0": "2023-01-18 20:01:41 +0100"
+    },
+    "done": true
+  },
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2023-01-11 21:25:48 +0100"
@@ -1040,6 +1065,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 19:31:10 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2023-01-18 20:48:56 +0100"
     },
     "done": true
   },
@@ -1185,6 +1216,12 @@
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2023-01-18 20:07:23 +0100"
     },
     "done": true
   },
@@ -1371,6 +1408,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 19:31:10 +0100"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2023-01-18 20:48:42 +0100"
     },
     "done": true
   },
@@ -1891,6 +1934,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2023-01-18 20:20:20 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
@@ -2124,6 +2173,18 @@
   "elementalcraft:pickup/earth_shard": {
     "criteria": {
       "has_earth_shard": "2023-01-11 21:52:19 +0100"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2023-01-18 20:01:43 +0100"
+    },
+    "done": true
+  },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2023-01-18 20:02:06 +0100"
     },
     "done": true
   },
