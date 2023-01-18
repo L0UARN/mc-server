@@ -418,6 +418,12 @@
     },
     "done": true
   },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2023-01-17 22:51:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 19:31:10 +0100"
@@ -917,6 +923,12 @@
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2023-01-17 22:51:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 19:31:10 +0100"
@@ -1088,6 +1100,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_trapdoor_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 18:56:23 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2023-01-17 22:47:53 +0100"
     },
     "done": true
   },
@@ -1747,12 +1765,15 @@
       "byg:orchard": "2023-01-13 15:10:59 +0100",
       "byg:red_oak_forest": "2023-01-16 19:11:42 +0100",
       "byg:redwood_thicket": "2023-01-16 19:07:56 +0100",
+      "byg:cypress_swamplands": "2023-01-17 22:30:58 +0100",
+      "byg:white_mangrove_marshes": "2023-01-17 22:29:19 +0100",
       "byg:firecracker_shrubland": "2023-01-16 19:03:41 +0100",
       "byg:zelkova_forest": "2023-01-16 19:07:26 +0100",
       "byg:araucaria_savanna": "2023-01-11 21:25:48 +0100",
       "byg:jacaranda_forest": "2023-01-17 19:02:20 +0100",
       "byg:wailing_garth": "2023-01-15 22:11:23 +0100",
       "byg:crag_gardens": "2023-01-16 19:04:04 +0100",
+      "byg:bayou": "2023-01-17 22:33:20 +0100",
       "byg:aspen_forest": "2023-01-13 14:59:43 +0100",
       "byg:cherry_blossom_forest": "2023-01-16 18:54:57 +0100",
       "byg:canadian_shield": "2023-01-16 19:03:33 +0100",
@@ -1820,18 +1841,24 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2023-01-16 19:07:46 +0100",
       "minecraft:taiga": "2023-01-16 19:07:42 +0100",
+      "minecraft:deep_ocean": "2023-01-17 22:55:11 +0100",
       "minecraft:sunflower_plains": "2023-01-16 19:22:23 +0100",
       "minecraft:birch_forest": "2023-01-17 19:21:48 +0100",
+      "minecraft:bamboo_jungle": "2023-01-17 22:38:33 +0100",
       "minecraft:beach": "2023-01-12 19:17:59 +0100",
       "minecraft:dark_forest": "2023-01-17 19:02:23 +0100",
+      "minecraft:mangrove_swamp": "2023-01-17 22:25:41 +0100",
       "minecraft:sparse_jungle": "2023-01-14 21:57:00 +0100",
       "minecraft:lukewarm_ocean": "2023-01-11 21:59:21 +0100",
       "minecraft:river": "2023-01-11 21:42:36 +0100",
       "minecraft:stony_shore": "2023-01-12 19:19:04 +0100",
+      "minecraft:swamp": "2023-01-17 22:29:25 +0100",
       "minecraft:forest": "2023-01-13 15:25:02 +0100",
+      "minecraft:windswept_forest": "2023-01-17 22:30:17 +0100",
       "minecraft:ocean": "2023-01-12 19:16:03 +0100",
       "minecraft:jungle": "2023-01-16 18:56:08 +0100",
       "minecraft:old_growth_spruce_taiga": "2023-01-16 19:08:16 +0100",
+      "minecraft:windswept_savanna": "2023-01-17 22:39:03 +0100",
       "minecraft:deep_lukewarm_ocean": "2023-01-16 19:49:26 +0100",
       "minecraft:old_growth_birch_forest": "2023-01-16 19:04:19 +0100",
       "minecraft:meadow": "2023-01-16 19:22:16 +0100",
@@ -1867,6 +1894,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2023-01-17 22:52:52 +0100"
     },
     "done": true
   },
