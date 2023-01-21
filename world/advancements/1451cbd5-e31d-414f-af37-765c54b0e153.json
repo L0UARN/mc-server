@@ -29,6 +29,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:56:27 +0100"
@@ -62,6 +68,12 @@
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/inert_crystal": {
+    "criteria": {
+      "has_inert_crystal": "2023-01-20 16:18:28 +0100"
     },
     "done": true
   },
@@ -101,11 +113,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
     },
     "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "ginger_seed": "2023-01-20 17:07:38 +0100"
+    },
+    "done": false
   },
   "apotheosis:give_book": {
     "criteria": {
@@ -142,6 +166,15 @@
       "has_planks": "2023-01-11 21:53:47 +0100"
     },
     "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "turnip_seed": "2023-01-20 18:06:44 +0100",
+      "greenbean_seed": "2023-01-20 15:18:52 +0100",
+      "ginger_seed": "2023-01-20 17:07:38 +0100",
+      "asparagus_seed": "2023-01-20 18:06:44 +0100"
+    },
+    "done": false
   },
   "ae2:main/root": {
     "criteria": {
@@ -227,6 +260,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2023-01-20 16:56:01 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
@@ -290,8 +329,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2023-01-11 22:28:12 +0100",
+      "spider_eye": "2023-01-20 16:33:16 +0100",
       "bread": "2023-01-11 22:48:44 +0100",
       "golden_apple": "2023-01-18 20:51:19 +0100",
+      "rotten_flesh": "2023-01-20 16:32:38 +0100",
+      "glow_berries": "2023-01-20 16:40:20 +0100",
       "melon_slice": "2023-01-11 22:03:00 +0100",
       "enchanted_golden_apple": "2023-01-11 22:43:31 +0100"
     },
@@ -333,6 +375,18 @@
     },
     "done": true
   },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2023-01-20 15:56:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:14:45 +0100"
@@ -363,6 +417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_layered_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:15:41 +0100"
@@ -384,6 +444,12 @@
   "corail_woodcutter:recipes/from_canopy_planks": {
     "criteria": {
       "has_ingredient": "2023-01-11 21:53:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-01-20 16:19:55 +0100"
     },
     "done": true
   },
@@ -563,6 +629,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "scrambled_eggs": "2023-01-20 17:52:11 +0100",
       "glowing_calamari": "2023-01-18 20:50:07 +0100"
     },
     "done": false
@@ -747,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:48:50 +0100"
@@ -837,9 +910,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2023-01-20 15:18:52 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:48:50 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2023-01-20 15:36:59 +0100"
     },
     "done": true
   },
@@ -867,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2023-01-11 21:59:13 +0100"
@@ -885,6 +982,12 @@
     },
     "done": true
   },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2023-01-20 15:45:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_boat_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:16:32 +0100"
@@ -900,6 +1003,12 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_button_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:16:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
     },
     "done": true
   },
@@ -942,6 +1051,12 @@
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2023-01-20 19:15:41 +0100"
     },
     "done": true
   },
@@ -1041,6 +1156,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "asparagus_seed": "2023-01-20 18:06:44 +0100"
+    },
+    "done": false
+  },
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
@@ -1083,9 +1210,39 @@
     },
     "done": true
   },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "greenbean_seed": "2023-01-20 15:18:52 +0100"
+    },
+    "done": false
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2023-01-20 16:18:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:15:41 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2023-01-20 15:13:06 +0100"
     },
     "done": true
   },
@@ -1140,6 +1297,13 @@
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:54:33 +0100"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2023-01-20 18:06:46 +0100",
+      "sapling": "2023-01-20 18:07:03 +0100"
     },
     "done": true
   },
@@ -1239,6 +1403,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/locate_ancient_city": {
+    "criteria": {
+      "ancient_city": "2023-01-20 16:26:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2023-01-11 22:30:05 +0100"
@@ -1275,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 15:24:28 +0100"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2023-01-11 22:01:52 +0100"
@@ -1284,6 +1460,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:48:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-01-20 18:11:14 +0100"
     },
     "done": true
   },
@@ -1341,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:15:41 +0100"
@@ -1375,12 +1563,19 @@
     "criteria": {
       "byg:rainbow_beach": "2023-01-11 21:50:00 +0100",
       "byg:allium_fields": "2023-01-18 20:41:34 +0100",
+      "byg:coconino_meadow": "2023-01-20 15:13:32 +0100",
+      "byg:firecracker_shrubland": "2023-01-20 16:11:17 +0100",
+      "byg:weeping_witch_forest": "2023-01-20 15:20:46 +0100",
       "byg:araucaria_savanna": "2023-01-11 21:48:51 +0100",
       "byg:twilight_meadow": "2023-01-18 20:43:42 +0100",
       "byg:cherry_blossom_forest": "2023-01-11 22:04:49 +0100",
+      "byg:canadian_shield": "2023-01-20 16:16:07 +0100",
+      "byg:amaranth_fields": "2023-01-20 16:06:16 +0100",
+      "byg:ebony_woods": "2023-01-20 16:06:31 +0100",
       "byg:lush_stacks": "2023-01-13 21:31:21 +0100",
       "byg:basalt_barrera": "2023-01-18 20:41:24 +0100",
-      "byg:maple_taiga": "2023-01-18 20:42:43 +0100"
+      "byg:maple_taiga": "2023-01-18 20:42:43 +0100",
+      "byg:guiana_shield": "2023-01-20 16:28:34 +0100"
     },
     "done": false
   },
@@ -1414,6 +1609,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-01-20 18:39:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pressure_plate_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:16:32 +0100"
@@ -1426,21 +1627,36 @@
     },
     "done": true
   },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2023-01-20 18:04:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2023-01-18 20:32:35 +0100",
       "minecraft:deep_ocean": "2023-01-18 20:20:37 +0100",
+      "minecraft:bamboo_jungle": "2023-01-20 16:05:32 +0100",
+      "minecraft:savanna_plateau": "2023-01-20 16:28:54 +0100",
       "minecraft:beach": "2023-01-18 20:32:55 +0100",
+      "minecraft:stony_peaks": "2023-01-20 16:28:24 +0100",
       "minecraft:sparse_jungle": "2023-01-13 21:29:57 +0100",
       "minecraft:lukewarm_ocean": "2023-01-11 21:59:07 +0100",
       "minecraft:river": "2023-01-11 22:00:24 +0100",
+      "minecraft:stony_shore": "2023-01-20 17:33:42 +0100",
+      "minecraft:dripstone_caves": "2023-01-20 16:11:29 +0100",
       "minecraft:cold_ocean": "2023-01-18 20:24:11 +0100",
       "minecraft:forest": "2023-01-13 22:22:54 +0100",
       "minecraft:deep_cold_ocean": "2023-01-18 20:23:38 +0100",
       "minecraft:ocean": "2023-01-18 20:21:34 +0100",
+      "minecraft:jungle": "2023-01-20 16:05:48 +0100",
+      "minecraft:windswept_savanna": "2023-01-20 19:24:34 +0100",
       "minecraft:deep_lukewarm_ocean": "2023-01-18 20:20:33 +0100",
       "minecraft:flower_forest": "2023-01-18 20:39:36 +0100",
       "minecraft:old_growth_birch_forest": "2023-01-18 20:41:41 +0100",
+      "minecraft:deep_dark": "2023-01-20 16:19:17 +0100",
+      "minecraft:savanna": "2023-01-20 17:06:22 +0100",
       "minecraft:plains": "2023-01-11 21:51:40 +0100"
     },
     "done": false
@@ -1460,6 +1676,12 @@
   "mcwdoors:recipes/warped": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:programming_puzzle": {
+    "criteria": {
+      "0": "2023-01-20 18:07:02 +0100"
     },
     "done": true
   },
@@ -1529,6 +1751,12 @@
     },
     "done": true
   },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "turnip_seed": "2023-01-20 18:06:44 +0100"
+    },
+    "done": false
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2023-01-11 21:53:47 +0100"
@@ -1583,6 +1811,12 @@
     },
     "done": true
   },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2023-01-20 18:04:10 +0100"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2023-01-11 21:48:50 +0100"
@@ -1592,6 +1826,12 @@
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
     },
     "done": true
   },
@@ -1610,6 +1850,12 @@
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2023-01-11 21:53:47 +0100"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2023-01-20 17:15:40 +0100"
     },
     "done": true
   },
@@ -1673,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:48:50 +0100"
@@ -1682,6 +1934,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:15:41 +0100"
+    },
+    "done": true
+  },
+  "croptopia:salt": {
+    "criteria": {
+      "salt": "2023-01-20 18:06:45 +0100"
     },
     "done": true
   },
@@ -1715,9 +1973,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-20 18:50:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:54:33 +0100"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/earthcrystal": {
+    "criteria": {
+      "has_earthcrystal": "2023-01-20 18:07:18 +0100"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/drenched_iron_ingot": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2023-01-20 18:04:30 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_warden_carapace": {
+    "criteria": {
+      "carapace": "2023-01-20 16:55:37 +0100"
     },
     "done": true
   },

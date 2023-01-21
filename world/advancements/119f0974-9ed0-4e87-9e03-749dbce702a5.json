@@ -339,6 +339,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-01-20 16:53:03 +0100"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2023-01-13 15:49:50 +0100"
@@ -610,6 +616,12 @@
   "mekanism:root": {
     "criteria": {
       "automatic": "2023-01-12 19:25:36 +0100"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2023-01-20 18:22:03 +0100"
     },
     "done": true
   },
@@ -1013,6 +1025,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/locate_ancient_city": {
+    "criteria": {
+      "ancient_city": "2023-01-20 16:50:00 +0100"
+    },
+    "done": true
+  },
   "silentgear:crimson_iron": {
     "criteria": {
       "get_ore": "2023-01-15 21:31:16 +0100",
@@ -1177,6 +1195,7 @@
       "minecraft:flower_forest": "2023-01-13 14:49:04 +0100",
       "minecraft:frozen_peaks": "2023-01-18 21:07:35 +0100",
       "minecraft:old_growth_birch_forest": "2023-01-13 14:07:31 +0100",
+      "minecraft:deep_dark": "2023-01-20 16:47:39 +0100",
       "minecraft:meadow": "2023-01-13 14:50:01 +0100",
       "minecraft:savanna": "2023-01-13 15:41:54 +0100",
       "minecraft:plains": "2023-01-12 19:51:50 +0100"
@@ -1805,6 +1824,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2023-01-20 17:11:42 +0100"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/jungle": {
     "criteria": {
       "has_planks": "2023-01-12 19:32:00 +0100"
@@ -1848,6 +1873,12 @@
   "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-12 19:49:38 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2023-01-20 17:11:32 +0100"
     },
     "done": true
   },
@@ -1970,6 +2001,12 @@
   "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-12 19:35:50 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2023-01-20 17:11:32 +0100"
     },
     "done": true
   },
@@ -2411,6 +2448,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2023-01-20 17:08:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2023-01-12 20:16:34 +0100"
@@ -2608,6 +2651,8 @@
       "byg:red_oak_forest": "2023-01-13 14:45:40 +0100",
       "byg:rose_fields": "2023-01-18 21:15:07 +0100",
       "byg:white_mangrove_marshes": "2023-01-14 14:10:07 +0100",
+      "byg:firecracker_shrubland": "2023-01-20 16:43:23 +0100",
+      "byg:tropical_rainforest": "2023-01-20 17:19:10 +0100",
       "byg:araucaria_savanna": "2023-01-12 19:25:37 +0100",
       "byg:wailing_garth": "2023-01-15 14:10:36 +0100",
       "byg:bayou": "2023-01-14 14:09:46 +0100",
@@ -2617,6 +2662,7 @@
       "byg:twilight_meadow": "2023-01-18 19:05:21 +0100",
       "byg:cherry_blossom_forest": "2023-01-12 21:00:11 +0100",
       "byg:forgotten_forest": "2023-01-13 14:48:52 +0100",
+      "byg:canadian_shield": "2023-01-20 16:45:11 +0100",
       "byg:baobab_savanna": "2023-01-13 22:34:42 +0100",
       "byg:amaranth_fields": "2023-01-12 21:00:20 +0100",
       "byg:brimstone_caverns": "2023-01-15 14:06:19 +0100",
@@ -2625,7 +2671,8 @@
       "byg:basalt_barrera": "2023-01-12 21:09:33 +0100",
       "byg:lush_stacks": "2023-01-13 21:10:54 +0100",
       "byg:maple_taiga": "2023-01-18 19:30:42 +0100",
-      "byg:dacite_shore": "2023-01-18 21:15:35 +0100"
+      "byg:dacite_shore": "2023-01-18 21:15:35 +0100",
+      "byg:guiana_shield": "2023-01-20 17:20:22 +0100"
     },
     "done": false
   },
@@ -2641,6 +2688,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-01-20 18:09:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-12 19:35:50 +0100"
@@ -2650,6 +2703,12 @@
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-01-12 19:36:08 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2023-01-20 17:11:32 +0100"
     },
     "done": true
   },
@@ -2929,6 +2988,12 @@
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-12 21:02:56 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_warden_carapace": {
+    "criteria": {
+      "carapace": "2023-01-20 16:53:58 +0100"
     },
     "done": true
   },
