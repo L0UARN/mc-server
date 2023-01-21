@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_pick": "2023-01-21 14:43:56 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 18:56:23 +0100"
@@ -264,6 +270,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2023-01-21 14:11:27 +0100"
+    },
+    "done": true
+  },
   "apotheosis:spawner/mindelay": {
     "criteria": {
       "modifier": "2023-01-21 03:21:24 +0100"
@@ -423,6 +435,12 @@
     },
     "done": false
   },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2023-01-21 12:43:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 18:56:18 +0100"
@@ -457,6 +475,7 @@
       "minecraft:spider": "2023-01-11 21:58:46 +0100",
       "minecraft:piglin_brute": "2023-01-15 23:11:40 +0100",
       "minecraft:creeper": "2023-01-11 21:58:29 +0100",
+      "minecraft:wither": "2023-01-21 14:48:38 +0100",
       "minecraft:slime": "2023-01-17 19:16:56 +0100",
       "minecraft:phantom": "2023-01-17 18:56:37 +0100",
       "minecraft:witch": "2023-01-12 19:17:56 +0100",
@@ -580,6 +599,12 @@
     },
     "done": true
   },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ore": "2023-01-21 13:44:53 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_boat_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 18:56:23 +0100"
@@ -601,6 +626,12 @@
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2023-01-17 19:53:00 +0100"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2023-01-21 13:57:40 +0100"
     },
     "done": true
   },
@@ -631,6 +662,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2023-01-21 13:02:35 +0100"
     },
     "done": true
   },
@@ -682,6 +719,12 @@
     },
     "done": true
   },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2023-01-21 12:40:07 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2023-01-11 21:34:13 +0100"
@@ -703,6 +746,12 @@
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2023-01-16 19:50:25 +0100"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2023-01-21 16:56:56 +0100"
     },
     "done": true
   },
@@ -1003,6 +1052,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/crime_in_town": {
+    "criteria": {
+      "coded_trigger": "2023-01-21 12:33:05 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
@@ -1048,6 +1103,12 @@
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2023-01-12 20:24:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-01-21 15:37:21 +0100"
     },
     "done": true
   },
@@ -1178,6 +1239,12 @@
     },
     "done": true
   },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2023-01-21 12:39:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_slab_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 18:56:23 +0100"
@@ -1268,6 +1335,12 @@
     },
     "done": true
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2023-01-21 12:35:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-13 13:49:51 +0100"
@@ -1307,6 +1380,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-01-13 14:46:52 +0100"
+    },
+    "done": true
+  },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2023-01-21 15:32:40 +0100"
     },
     "done": true
   },
@@ -1400,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-01-21 14:48:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-13 13:49:51 +0100"
@@ -1468,6 +1553,12 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2023-01-11 22:12:27 +0100"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2023-01-21 15:28:49 +0100"
     },
     "done": true
   },
@@ -1579,9 +1670,21 @@
     },
     "done": true
   },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2023-01-21 13:23:34 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_dark_planks": {
     "criteria": {
       "has_ingredient": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2023-01-21 15:04:00 +0100"
     },
     "done": true
   },
@@ -1639,6 +1742,12 @@
     },
     "done": true
   },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2023-01-21 12:35:05 +0100"
+    },
+    "done": true
+  },
   "elementalcraft:pickup/powerful_air_shard": {
     "criteria": {
       "has_powerful_air_shard": "2023-01-21 02:44:43 +0100"
@@ -1648,6 +1757,12 @@
   "minecolonies:minecolonies/root": {
     "criteria": {
       "supply_ship_placed": "2023-01-11 22:40:54 +0100"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2023-01-21 15:29:48 +0100"
     },
     "done": true
   },
@@ -1905,6 +2020,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2023-01-21 13:59:06 +0100",
       "potato": "2023-01-16 19:40:08 +0100",
       "wheat": "2023-01-15 20:47:55 +0100"
     },
@@ -2430,6 +2546,7 @@
   },
   "silentgear:overworld_plants": {
     "criteria": {
+      "flax_seeds": "2023-01-21 13:26:17 +0100",
       "fluffy_seeds": "2023-01-11 21:34:13 +0100"
     },
     "done": false

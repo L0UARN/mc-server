@@ -417,6 +417,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2023-01-21 14:25:35 +0100"
+    },
+    "done": true
+  },
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2023-01-15 14:36:07 +0100"
@@ -425,9 +431,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2023-01-16 20:05:49 +0100"
+      "kill_lich": "2023-01-16 20:05:49 +0100",
+      "trophy_pedestal": "2023-01-21 15:35:50 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
@@ -495,7 +502,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_jungle": "2023-01-13 15:44:02 +0100"
+      "in_mineshaft_jungle": "2023-01-13 15:44:02 +0100",
+      "in_mineshaft_nether": "2023-01-21 13:35:17 +0100"
     },
     "done": false
   },
@@ -582,8 +590,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-01-12 20:58:53 +0100",
+      "minecraft:blaze": "2023-01-21 13:22:45 +0100",
       "minecraft:skeleton": "2023-01-12 19:44:41 +0100",
       "minecraft:ravager": "2023-01-14 13:44:25 +0100",
+      "minecraft:ghast": "2023-01-21 14:14:48 +0100",
       "minecraft:hoglin": "2023-01-13 14:21:29 +0100",
       "minecraft:vindicator": "2023-01-14 13:45:22 +0100",
       "minecraft:magma_cube": "2023-01-15 14:06:38 +0100",
@@ -667,6 +677,12 @@
     },
     "done": true
   },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2023-01-21 16:23:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-12 19:35:50 +0100"
@@ -721,6 +737,12 @@
     },
     "done": true
   },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ore": "2023-01-21 14:45:53 +0100"
+    },
+    "done": false
+  },
   "tombstone:adventure/prevent_death_fall": {
     "criteria": {
       "coded_trigger": "2023-01-18 21:23:26 +0100"
@@ -732,6 +754,12 @@
       "has_planks": "2023-01-12 19:32:00 +0100"
     },
     "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_nether_bricks": "2023-01-21 14:02:54 +0100"
+    },
+    "done": false
   },
   "comforts:hammock_white": {
     "criteria": {
@@ -1003,7 +1031,8 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "hydra": "2023-01-17 22:30:16 +0100"
+      "hydra": "2023-01-17 22:30:16 +0100",
+      "ur_ghast": "2023-01-21 16:31:29 +0100"
     },
     "done": false
   },
@@ -1150,10 +1179,11 @@
   "twilightforest:progress_knights": {
     "criteria": {
       "all_knights": "2023-01-17 19:32:20 +0100",
+      "previous_progression": "2023-01-21 15:35:50 +0100",
       "trophy": "2023-01-17 19:32:43 +0100",
       "was_in_fight": "2023-01-17 19:32:20 +0100"
     },
-    "done": false
+    "done": true
   },
   "silentgear:crimson_steel": {
     "criteria": {
@@ -1172,6 +1202,8 @@
       "minecraft:birch_forest": "2023-01-13 15:01:40 +0100",
       "minecraft:windswept_hills": "2023-01-14 13:57:28 +0100",
       "minecraft:bamboo_jungle": "2023-01-14 15:38:09 +0100",
+      "minecraft:wooded_badlands": "2023-01-21 14:26:33 +0100",
+      "minecraft:badlands": "2023-01-21 14:28:11 +0100",
       "minecraft:beach": "2023-01-12 21:09:43 +0100",
       "minecraft:dark_forest": "2023-01-14 14:11:44 +0100",
       "minecraft:mangrove_swamp": "2023-01-14 14:10:54 +0100",
@@ -1187,10 +1219,12 @@
       "minecraft:forest": "2023-01-12 21:09:46 +0100",
       "minecraft:lush_caves": "2023-01-15 15:16:41 +0100",
       "minecraft:deep_cold_ocean": "2023-01-14 16:24:36 +0100",
+      "minecraft:desert": "2023-01-21 14:27:27 +0100",
       "minecraft:windswept_forest": "2023-01-14 13:57:38 +0100",
       "minecraft:ocean": "2023-01-12 20:09:42 +0100",
       "minecraft:jungle": "2023-01-13 15:42:31 +0100",
       "minecraft:windswept_savanna": "2023-01-14 15:27:32 +0100",
+      "minecraft:warm_ocean": "2023-01-21 14:35:16 +0100",
       "minecraft:deep_lukewarm_ocean": "2023-01-13 21:48:38 +0100",
       "minecraft:flower_forest": "2023-01-13 14:49:04 +0100",
       "minecraft:frozen_peaks": "2023-01-18 21:07:35 +0100",
@@ -1230,6 +1264,12 @@
   "elementalcraft:pickup/powerful_fire_shard": {
     "criteria": {
       "has_powerful_fire_shard": "2023-01-17 18:56:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-01-21 14:04:20 +0100"
     },
     "done": true
   },
@@ -1386,7 +1426,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2023-01-15 14:05:44 +0100"
+      "minecraft:crimson_forest": "2023-01-15 14:05:44 +0100",
+      "minecraft:nether_wastes": "2023-01-21 14:24:07 +0100",
+      "minecraft:soul_sand_valley": "2023-01-21 14:18:09 +0100",
+      "minecraft:warped_forest": "2023-01-21 14:23:30 +0100"
     },
     "done": false
   },
@@ -1561,6 +1604,7 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_ocean": "2023-01-13 13:53:30 +0100",
+      "in_pyramid_nether": "2023-01-21 14:13:39 +0100",
       "in_pyramid_flower_forest": "2023-01-13 14:46:57 +0100"
     },
     "done": false
@@ -1631,6 +1675,12 @@
     },
     "done": true
   },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2023-01-21 16:47:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2023-01-14 13:56:34 +0100"
@@ -1664,6 +1714,12 @@
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2023-01-12 19:32:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-01-21 13:42:01 +0100"
     },
     "done": true
   },
@@ -1703,6 +1759,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2023-01-21 14:16:06 +0100"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2023-01-13 14:51:45 +0100"
@@ -1731,6 +1793,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_trapdoor_from_acacia_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-15 20:44:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-01-21 14:48:05 +0100"
     },
     "done": true
   },
@@ -1806,6 +1874,7 @@
       "spider_eye": "2023-01-15 15:22:31 +0100",
       "potato": "2023-01-15 15:22:25 +0100",
       "cooked_cod": "2023-01-16 19:39:27 +0100",
+      "pumpkin_pie": "2023-01-21 13:47:35 +0100",
       "bread": "2023-01-12 20:33:25 +0100",
       "golden_apple": "2023-01-12 20:49:29 +0100",
       "glow_berries": "2023-01-18 21:29:38 +0100",
@@ -1848,9 +1917,21 @@
     },
     "done": true
   },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2023-01-21 16:21:14 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_transformation_planks": {
     "criteria": {
       "has_ingredient": "2023-01-12 19:32:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2023-01-21 14:26:32 +0100"
     },
     "done": true
   },
@@ -2388,6 +2469,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-01-21 13:23:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-12 21:02:56 +0100"
@@ -2439,6 +2526,13 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_purple_wool": "2023-01-16 19:44:35 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2023-01-21 15:35:50 +0100",
+      "ghast": "2023-01-21 16:31:29 +0100"
     },
     "done": true
   },
@@ -2618,7 +2712,9 @@
       "raw_venison": "2023-01-16 20:51:43 +0100",
       "meef_stroganoff": "2023-01-17 18:57:47 +0100",
       "maze_wafer": "2023-01-17 18:32:45 +0100",
-      "cooked_meef": "2023-01-18 19:03:37 +0100"
+      "hydra_chop": "2023-01-21 14:25:01 +0100",
+      "cooked_meef": "2023-01-18 19:03:37 +0100",
+      "experiment_115": "2023-01-21 16:21:14 +0100"
     },
     "done": false
   },
@@ -2646,16 +2742,21 @@
       "byg:rainbow_beach": "2023-01-12 19:28:44 +0100",
       "byg:prairie": "2023-01-13 14:48:33 +0100",
       "byg:coconino_meadow": "2023-01-18 20:51:35 +0100",
+      "byg:sythian_torrids": "2023-01-21 13:34:13 +0100",
       "byg:temperate_grove": "2023-01-15 15:54:59 +0100",
+      "byg:sierra_badlands": "2023-01-21 14:30:45 +0100",
       "byg:orchard": "2023-01-13 14:09:58 +0100",
       "byg:red_oak_forest": "2023-01-13 14:45:40 +0100",
       "byg:rose_fields": "2023-01-18 21:15:07 +0100",
       "byg:white_mangrove_marshes": "2023-01-14 14:10:07 +0100",
       "byg:firecracker_shrubland": "2023-01-20 16:43:23 +0100",
+      "byg:atacama_desert": "2023-01-21 14:30:14 +0100",
       "byg:tropical_rainforest": "2023-01-20 17:19:10 +0100",
       "byg:araucaria_savanna": "2023-01-12 19:25:37 +0100",
       "byg:wailing_garth": "2023-01-15 14:10:36 +0100",
+      "byg:crag_gardens": "2023-01-21 14:34:44 +0100",
       "byg:bayou": "2023-01-14 14:09:46 +0100",
+      "byg:red_rock_valley": "2023-01-21 14:32:38 +0100",
       "byg:dacite_ridges": "2023-01-15 15:41:43 +0100",
       "byg:autumnal_valley": "2023-01-18 19:05:19 +0100",
       "byg:aspen_forest": "2023-01-13 14:02:47 +0100",
@@ -2672,6 +2773,7 @@
       "byg:lush_stacks": "2023-01-13 21:10:54 +0100",
       "byg:maple_taiga": "2023-01-18 19:30:42 +0100",
       "byg:dacite_shore": "2023-01-18 21:15:35 +0100",
+      "byg:windswept_desert": "2023-01-21 14:30:44 +0100",
       "byg:guiana_shield": "2023-01-20 17:20:22 +0100"
     },
     "done": false
@@ -2750,6 +2852,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_badlands": "2023-01-21 14:28:50 +0100",
       "in_outpost_oak": "2023-01-13 22:33:34 +0100"
     },
     "done": false
@@ -2765,6 +2868,12 @@
       "give_recipe": "2023-01-12 19:49:38 +0100"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2023-01-21 14:20:03 +0100"
+    },
+    "done": false
   },
   "minecraft:nether/loot_bastion": {
     "criteria": {
