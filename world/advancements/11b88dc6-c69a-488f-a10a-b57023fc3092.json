@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2023-01-21 03:52:34 +0100"
+    },
+    "done": false
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2023-01-17 19:05:08 +0100"
@@ -32,6 +38,12 @@
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "mekanism:sawmill": {
+    "criteria": {
+      "precision_sawmill": "2023-01-21 02:17:53 +0100"
     },
     "done": true
   },
@@ -228,6 +240,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/redstone": {
+    "criteria": {
+      "modifier": "2023-01-21 03:33:05 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
@@ -243,6 +261,12 @@
   "corail_woodcutter:recipes/from_twilight_oak_planks": {
     "criteria": {
       "has_ingredient": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/mindelay": {
+    "criteria": {
+      "modifier": "2023-01-21 03:21:24 +0100"
     },
     "done": true
   },
@@ -664,6 +688,12 @@
     },
     "done": true
   },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2023-01-21 02:17:12 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2023-01-11 21:34:13 +0100"
@@ -905,6 +935,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/light": {
+    "criteria": {
+      "modifier": "2023-01-21 03:24:21 +0100"
+    },
+    "done": true
+  },
   "silentgear:crimson_steel": {
     "criteria": {
       "get_item": "2023-01-17 19:20:47 +0100"
@@ -979,6 +1015,12 @@
     },
     "done": true
   },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2023-01-21 02:16:44 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
@@ -1018,6 +1060,12 @@
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "paper": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2023-01-21 02:17:56 +0100"
     },
     "done": true
   },
@@ -1193,6 +1241,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2023-01-11 22:03:48 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:machine_vandal": {
+    "criteria": {
+      "0": "2023-01-21 03:02:32 +0100"
     },
     "done": true
   },
@@ -1585,6 +1639,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/powerful_air_shard": {
+    "criteria": {
+      "has_powerful_air_shard": "2023-01-21 02:44:43 +0100"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/root": {
     "criteria": {
       "supply_ship_placed": "2023-01-11 22:40:54 +0100"
@@ -1759,6 +1819,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/maxdelay": {
+    "criteria": {
+      "modifier": "2023-01-21 03:28:47 +0100"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2023-01-12 20:25:02 +0100"
@@ -1886,6 +1952,12 @@
     },
     "done": true
   },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2023-01-21 01:37:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_chest_boat_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 18:56:23 +0100"
@@ -1919,6 +1991,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 19:31:10 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/network_tool": {
+    "criteria": {
+      "network_tool": "2023-01-21 01:44:39 +0100"
     },
     "done": true
   },
@@ -2177,6 +2255,13 @@
     },
     "done": true
   },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "unbox": "2023-01-21 03:16:59 +0100",
+      "cardboard_box": "2023-01-21 02:20:37 +0100"
+    },
+    "done": true
+  },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:rainbow_beach": "2023-01-11 21:33:30 +0100",
@@ -2213,6 +2298,12 @@
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-01-21 03:37:21 +0100"
     },
     "done": true
   },
@@ -2298,6 +2389,12 @@
   "mcwroofs:recipes/andesite": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2023-01-21 03:21:20 +0100"
     },
     "done": true
   },
