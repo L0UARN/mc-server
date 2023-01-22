@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 20:23:11 +0100"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2023-01-21 03:52:34 +0100"
@@ -14,6 +20,12 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2023-01-17 19:05:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
     },
     "done": true
   },
@@ -56,6 +68,12 @@
   "ae2:main/compass": {
     "criteria": {
       "compass": "2023-01-14 22:13:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
     },
     "done": true
   },
@@ -204,6 +222,12 @@
     },
     "done": true
   },
+  "silentgear:salvager": {
+    "criteria": {
+      "get_item": "2023-01-22 19:24:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:34:23 +0100"
@@ -348,6 +372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
+    },
+    "done": true
+  },
   "silentgear:nether": {
     "criteria": {
       "entered_nether": "2023-01-13 14:46:52 +0100"
@@ -412,6 +442,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_trapdoor_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-13 13:49:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
     },
     "done": true
   },
@@ -863,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
+    },
+    "done": true
+  },
   "deeperdarker:main/obtain_membrane": {
     "criteria": {
       "membrane": "2023-01-17 18:57:18 +0100"
@@ -1022,6 +1064,7 @@
       "minecraft:old_growth_spruce_taiga": "2023-01-16 19:08:16 +0100",
       "minecraft:windswept_savanna": "2023-01-17 22:39:03 +0100",
       "minecraft:deep_lukewarm_ocean": "2023-01-16 19:49:26 +0100",
+      "minecraft:flower_forest": "2023-01-22 19:07:11 +0100",
       "minecraft:old_growth_birch_forest": "2023-01-16 19:04:19 +0100",
       "minecraft:deep_dark": "2023-01-20 16:18:35 +0100",
       "minecraft:meadow": "2023-01-16 19:22:16 +0100",
@@ -1266,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
@@ -1335,6 +1384,12 @@
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2023-01-11 22:27:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
     },
     "done": true
   },
@@ -1485,6 +1540,12 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 18:56:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
     },
     "done": true
   },
@@ -1766,6 +1827,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2023-01-12 20:29:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
     },
     "done": true
   },
@@ -2057,6 +2124,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2023-01-22 20:21:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-13 13:49:51 +0100"
@@ -2263,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2023-01-11 21:25:48 +0100"
@@ -2422,6 +2501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
+    },
+    "done": true
+  },
   "mekanism:moving_blocks": {
     "criteria": {
       "unbox": "2023-01-21 03:16:59 +0100",
@@ -2538,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2023-01-11 21:34:13 +0100"
@@ -2647,6 +2738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 19:31:10 +0100"
@@ -2680,6 +2777,18 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 19:31:10 +0100"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2023-01-22 20:23:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 19:37:51 +0100"
     },
     "done": true
   },

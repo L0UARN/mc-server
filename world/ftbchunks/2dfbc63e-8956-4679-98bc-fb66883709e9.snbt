@@ -1,8 +1,15 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1674408896167L
-	chunks: { }
+	last_login_time: 1674409355804L
+	chunks: {
+		"allthemodium:mining": [
+			{ x: -30, z: 16, time: 1674416343135L }
+			{ x: -30, z: 15, time: 1674416343634L }
+			{ x: -29, z: 16, time: 1674418145051L }
+			{ x: -29, z: 15, time: 1674418144462L }
+		]
+	}
 	member_data: {
 		2dfbc63e-8956-4679-98bc-fb66883709e9: {
 			max_force_loaded_chunks: 25

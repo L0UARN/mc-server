@@ -42,6 +42,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/birch_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
@@ -118,6 +124,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2023-01-11 22:09:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
     },
     "done": true
   },
@@ -232,6 +244,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:26:39 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2023-01-22 20:52:56 +0100"
     },
     "done": true
   },
@@ -1264,6 +1282,12 @@
     },
     "done": true
   },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2023-01-22 18:59:26 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/mud_bricks": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
@@ -1273,6 +1297,12 @@
   "corail_woodcutter:recipes/from_acacia_planks": {
     "criteria": {
       "has_ingredient": "2023-01-11 22:15:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
     },
     "done": true
   },
@@ -1372,6 +1402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
@@ -1412,6 +1448,7 @@
       "bread": "2023-01-12 13:49:13 +0100",
       "cookie": "2023-01-12 14:57:47 +0100",
       "glow_berries": "2023-01-14 17:29:37 +0100",
+      "dried_kelp": "2023-01-22 21:58:12 +0100",
       "golden_carrot": "2023-01-15 21:08:42 +0100",
       "cooked_chicken": "2023-01-12 18:56:26 +0100",
       "cod": "2023-01-15 13:38:45 +0100"
@@ -1514,6 +1551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
+    },
+    "done": true
+  },
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2023-01-11 21:26:39 +0100"
@@ -1535,6 +1578,12 @@
   "mekanism:logistical_sorter": {
     "criteria": {
       "logistical_sorter": "2023-01-12 18:46:42 +0100"
+    },
+    "done": true
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2023-01-22 19:31:50 +0100"
     },
     "done": true
   },
@@ -1613,6 +1662,12 @@
   "mekanism:pump": {
     "criteria": {
       "electric_pump": "2023-01-12 14:49:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
     },
     "done": true
   },
@@ -1700,9 +1755,21 @@
     },
     "done": true
   },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2023-01-22 18:54:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2023-01-13 14:47:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
     },
     "done": true
   },
@@ -1928,6 +1995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
@@ -2009,6 +2082,12 @@
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:31:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
     },
     "done": true
   },
@@ -2169,6 +2248,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:26:39 +0100"
@@ -2223,6 +2308,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:12:24 +0100"
@@ -2253,9 +2350,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2023-01-11 21:27:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 18:54:00 +0100"
     },
     "done": true
   },
@@ -2394,6 +2503,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2023-01-11 21:26:39 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2023-01-22 20:33:44 +0100"
     },
     "done": true
   },
