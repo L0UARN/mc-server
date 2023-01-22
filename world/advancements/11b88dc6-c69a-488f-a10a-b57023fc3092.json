@@ -877,9 +877,10 @@
   },
   "silentgear:crimson_iron": {
     "criteria": {
+      "get_ore": "2023-01-22 02:07:12 +0100",
       "get_ingot": "2023-01-13 15:41:47 +0100"
     },
-    "done": false
+    "done": true
   },
   "artifacts:amateur_archaeologist": {
     "criteria": {
@@ -1014,6 +1015,7 @@
       "minecraft:dripstone_caves": "2023-01-20 16:15:40 +0100",
       "minecraft:swamp": "2023-01-17 22:29:25 +0100",
       "minecraft:forest": "2023-01-13 15:25:02 +0100",
+      "minecraft:desert": "2023-01-22 02:57:25 +0100",
       "minecraft:windswept_forest": "2023-01-17 22:30:17 +0100",
       "minecraft:ocean": "2023-01-12 19:16:03 +0100",
       "minecraft:jungle": "2023-01-16 18:56:08 +0100",
@@ -1031,6 +1033,13 @@
   "pneumaticcraft:programming_puzzle": {
     "criteria": {
       "0": "2023-01-11 22:01:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2023-01-22 00:58:58 +0100",
+      "has_block": "2023-01-22 00:58:58 +0100"
     },
     "done": true
   },
@@ -1218,6 +1227,12 @@
   "elementalcraft:pickup/earth_shard": {
     "criteria": {
       "has_earth_shard": "2023-01-11 21:52:19 +0100"
+    },
+    "done": true
+  },
+  "mekanism:restrictive_item_transport": {
+    "criteria": {
+      "restrictive_transporter": "2023-01-22 03:16:58 +0100"
     },
     "done": true
   },
@@ -1503,6 +1518,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2023-01-22 04:04:01 +0100"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2023-01-11 21:51:42 +0100"
@@ -1694,6 +1715,12 @@
     },
     "done": true
   },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2023-01-22 03:16:05 +0100"
+    },
+    "done": true
+  },
   "mekanism:configurator": {
     "criteria": {
       "configurator": "2023-01-15 21:48:44 +0100"
@@ -1802,6 +1829,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-22 00:58:58 +0100"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2023-01-22 02:13:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 18:56:23 +0100"
@@ -1847,6 +1886,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "mekanism:diversion_item_transport": {
+    "criteria": {
+      "diversion_transporter": "2023-01-22 03:17:02 +0100"
     },
     "done": true
   },
@@ -2122,6 +2167,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/players": {
+    "criteria": {
+      "modifier": "2023-01-22 04:26:38 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
@@ -2384,6 +2435,7 @@
       "byg:allium_fields": "2023-01-12 19:16:11 +0100",
       "byg:prairie": "2023-01-12 19:16:41 +0100",
       "byg:temperate_grove": "2023-01-16 19:22:30 +0100",
+      "byg:sierra_badlands": "2023-01-22 02:57:20 +0100",
       "byg:orchard": "2023-01-13 15:10:59 +0100",
       "byg:red_oak_forest": "2023-01-16 19:11:42 +0100",
       "byg:redwood_thicket": "2023-01-16 19:07:56 +0100",
@@ -2391,6 +2443,7 @@
       "byg:white_mangrove_marshes": "2023-01-17 22:29:19 +0100",
       "byg:firecracker_shrubland": "2023-01-16 19:03:41 +0100",
       "byg:zelkova_forest": "2023-01-16 19:07:26 +0100",
+      "byg:tropical_rainforest": "2023-01-22 02:57:58 +0100",
       "byg:araucaria_savanna": "2023-01-11 21:25:48 +0100",
       "byg:jacaranda_forest": "2023-01-17 19:02:20 +0100",
       "byg:wailing_garth": "2023-01-15 22:11:23 +0100",
@@ -2407,6 +2460,7 @@
       "byg:basalt_barrera": "2023-01-12 19:17:38 +0100",
       "byg:lush_stacks": "2023-01-14 21:58:22 +0100",
       "byg:maple_taiga": "2023-01-16 19:07:12 +0100",
+      "byg:windswept_desert": "2023-01-22 02:57:24 +0100",
       "byg:guiana_shield": "2023-01-16 19:03:29 +0100"
     },
     "done": false
@@ -2511,6 +2565,12 @@
   "apotheosis:spawner/modifier": {
     "criteria": {
       "modifier": "2023-01-21 03:21:20 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2023-01-22 04:06:49 +0100"
     },
     "done": true
   },
