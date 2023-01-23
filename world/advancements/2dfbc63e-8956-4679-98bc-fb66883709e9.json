@@ -454,6 +454,7 @@
       "minecraft:cave_spider": "2023-01-12 15:08:56 +0100",
       "minecraft:piglin": "2023-01-13 14:47:55 +0100",
       "minecraft:silverfish": "2023-01-12 14:16:26 +0100",
+      "minecraft:enderman": "2023-01-23 21:17:08 +0100",
       "minecraft:zombie": "2023-01-11 21:54:50 +0100",
       "minecraft:drowned": "2023-01-18 18:59:33 +0100",
       "minecraft:zombie_villager": "2023-01-11 22:44:58 +0100"
@@ -568,6 +569,18 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2023-01-23 22:33:11 +0100"
+    },
+    "done": true
+  },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ore": "2023-01-23 22:33:41 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_boat_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:14:58 +0100"
@@ -625,6 +638,12 @@
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2023-01-11 21:27:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-01-23 22:33:28 +0100"
     },
     "done": true
   },
@@ -925,15 +944,19 @@
       "minecraft:birch_forest": "2023-01-13 21:31:46 +0100",
       "minecraft:beach": "2023-01-12 19:26:54 +0100",
       "minecraft:dark_forest": "2023-01-13 21:21:39 +0100",
+      "minecraft:mangrove_swamp": "2023-01-23 22:28:09 +0100",
       "minecraft:sparse_jungle": "2023-01-12 19:20:38 +0100",
       "minecraft:lukewarm_ocean": "2023-01-11 22:05:47 +0100",
       "minecraft:river": "2023-01-11 21:42:44 +0100",
       "minecraft:dripstone_caves": "2023-01-12 18:10:31 +0100",
+      "minecraft:swamp": "2023-01-23 22:27:46 +0100",
       "minecraft:forest": "2023-01-12 19:34:35 +0100",
       "minecraft:lush_caves": "2023-01-12 18:28:29 +0100",
+      "minecraft:windswept_forest": "2023-01-23 22:29:54 +0100",
       "minecraft:ocean": "2023-01-11 22:05:50 +0100",
       "minecraft:jungle": "2023-01-12 19:35:34 +0100",
       "minecraft:old_growth_spruce_taiga": "2023-01-13 21:25:57 +0100",
+      "minecraft:windswept_savanna": "2023-01-23 22:26:15 +0100",
       "minecraft:old_growth_birch_forest": "2023-01-12 18:16:19 +0100",
       "minecraft:savanna": "2023-01-12 19:26:53 +0100",
       "minecraft:plains": "2023-01-11 21:29:52 +0100"
@@ -1447,6 +1470,7 @@
       "cooked_cod": "2023-01-15 13:44:41 +0100",
       "bread": "2023-01-12 13:49:13 +0100",
       "cookie": "2023-01-12 14:57:47 +0100",
+      "rotten_flesh": "2023-01-23 21:17:43 +0100",
       "glow_berries": "2023-01-14 17:29:37 +0100",
       "dried_kelp": "2023-01-22 21:58:12 +0100",
       "golden_carrot": "2023-01-15 21:08:42 +0100",
@@ -1911,6 +1935,12 @@
     },
     "done": true
   },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2023-01-23 22:33:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:15:12 +0100"
@@ -2234,10 +2264,12 @@
       "byg:allium_fields": "2023-01-11 22:05:54 +0100",
       "byg:prairie": "2023-01-11 22:06:04 +0100",
       "byg:rainbow_beach": "2023-01-11 21:26:40 +0100",
+      "byg:orchard": "2023-01-23 22:24:36 +0100",
       "byg:red_oak_forest": "2023-01-12 18:16:09 +0100",
       "byg:cika_woods": "2023-01-13 21:25:18 +0100",
       "byg:araucaria_savanna": "2023-01-11 21:27:37 +0100",
       "byg:jacaranda_forest": "2023-01-12 18:27:50 +0100",
+      "byg:bayou": "2023-01-23 22:26:33 +0100",
       "byg:autumnal_valley": "2023-01-13 21:23:25 +0100",
       "byg:aspen_forest": "2023-01-12 18:15:58 +0100",
       "byg:twilight_meadow": "2023-01-13 21:23:20 +0100",
@@ -2383,6 +2415,12 @@
   "mekanismgenerators:burn_the_gas": {
     "criteria": {
       "gas_burning_generator": "2023-01-12 21:05:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-01-23 22:33:28 +0100"
     },
     "done": true
   },

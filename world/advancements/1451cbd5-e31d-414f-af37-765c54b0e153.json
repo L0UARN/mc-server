@@ -113,7 +113,8 @@
       "greenbean_seed": "2023-01-20 15:18:52 +0100",
       "chile_pepper_seed": "2023-01-21 12:28:49 +0100",
       "ginger_seed": "2023-01-20 17:07:38 +0100",
-      "asparagus_seed": "2023-01-20 18:06:44 +0100"
+      "asparagus_seed": "2023-01-20 18:06:44 +0100",
+      "mustard_seed": "2023-01-23 21:44:42 +0100"
     },
     "done": false
   },
@@ -756,7 +757,8 @@
   "croptopia:gather_plains": {
     "criteria": {
       "greenbean_seed": "2023-01-20 15:18:52 +0100",
-      "chile_pepper_seed": "2023-01-21 12:28:49 +0100"
+      "chile_pepper_seed": "2023-01-21 12:28:49 +0100",
+      "mustard_seed": "2023-01-23 21:44:42 +0100"
     },
     "done": false
   },

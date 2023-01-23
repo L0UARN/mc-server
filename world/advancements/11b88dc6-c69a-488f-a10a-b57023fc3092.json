@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-01-23 22:44:34 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
@@ -398,6 +404,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "scrambled_eggs": "2023-01-23 22:20:21 +0100",
       "toast": "2023-01-20 18:04:03 +0100",
       "glowing_calamari": "2023-01-20 18:06:39 +0100"
     },
@@ -495,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2023-01-23 22:35:53 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:25:48 +0100"
@@ -507,6 +520,7 @@
       "minecraft:blaze": "2023-01-15 23:09:50 +0100",
       "minecraft:skeleton": "2023-01-11 21:44:41 +0100",
       "minecraft:hoglin": "2023-01-15 23:04:17 +0100",
+      "minecraft:vindicator": "2023-01-23 21:20:15 +0100",
       "minecraft:magma_cube": "2023-01-15 23:04:21 +0100",
       "minecraft:spider": "2023-01-11 21:58:46 +0100",
       "minecraft:piglin_brute": "2023-01-15 23:11:40 +0100",
@@ -517,6 +531,8 @@
       "minecraft:witch": "2023-01-12 19:17:56 +0100",
       "minecraft:wither_skeleton": "2023-01-12 20:47:33 +0100",
       "minecraft:husk": "2023-01-13 15:18:40 +0100",
+      "minecraft:ender_dragon": "2023-01-23 22:35:53 +0100",
+      "minecraft:shulker": "2023-01-23 22:41:30 +0100",
       "minecraft:cave_spider": "2023-01-20 16:13:13 +0100",
       "minecraft:piglin": "2023-01-13 14:47:53 +0100",
       "minecraft:enderman": "2023-01-11 23:04:07 +0100",
@@ -635,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2023-01-23 21:22:47 +0100"
+    },
+    "done": true
+  },
   "silentgear:azure_silver": {
     "criteria": {
       "get_ore": "2023-01-21 13:44:53 +0100"
@@ -716,6 +738,12 @@
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-01-23 22:33:24 +0100"
     },
     "done": true
   },
@@ -1057,6 +1085,7 @@
       "minecraft:dripstone_caves": "2023-01-20 16:15:40 +0100",
       "minecraft:swamp": "2023-01-17 22:29:25 +0100",
       "minecraft:forest": "2023-01-13 15:25:02 +0100",
+      "minecraft:deep_cold_ocean": "2023-01-23 21:19:45 +0100",
       "minecraft:desert": "2023-01-22 02:57:25 +0100",
       "minecraft:windswept_forest": "2023-01-17 22:30:17 +0100",
       "minecraft:ocean": "2023-01-12 19:16:03 +0100",
@@ -1095,6 +1124,12 @@
   "elementalcraft:pickup/powerful_fire_shard": {
     "criteria": {
       "has_powerful_fire_shard": "2023-01-11 23:04:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-01-23 22:44:15 +0100"
     },
     "done": true
   },
@@ -1179,6 +1214,12 @@
   "mekanism:factory": {
     "criteria": {
       "factory": "2023-01-21 02:17:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-01-23 22:36:29 +0100"
     },
     "done": true
   },
@@ -1626,7 +1667,9 @@
       "glow_berries": "2023-01-11 23:01:10 +0100",
       "melon_slice": "2023-01-16 18:59:20 +0100",
       "golden_carrot": "2023-01-15 21:08:07 +0100",
+      "beetroot": "2023-01-23 22:06:58 +0100",
       "enchanted_golden_apple": "2023-01-12 19:22:31 +0100",
+      "mushroom_stew": "2023-01-23 22:41:50 +0100",
       "rabbit_stew": "2023-01-11 22:53:20 +0100",
       "carrot": "2023-01-11 22:05:40 +0100"
     },
@@ -2124,6 +2167,12 @@
     },
     "done": true
   },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2023-01-23 22:33:24 +0100"
+    },
+    "done": true
+  },
   "create:deployer": {
     "criteria": {
       "0": "2023-01-22 20:21:20 +0100"
@@ -2465,9 +2514,21 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-01-23 22:41:28 +0100"
+    },
+    "done": true
+  },
   "minecolonies:minecraft/craft_supply": {
     "criteria": {
       "supply_ship": "2023-01-11 22:40:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-01-23 22:38:52 +0100"
     },
     "done": true
   },
@@ -2520,6 +2581,7 @@
       "byg:allium_fields": "2023-01-12 19:16:11 +0100",
       "byg:prairie": "2023-01-12 19:16:41 +0100",
       "byg:temperate_grove": "2023-01-16 19:22:30 +0100",
+      "byg:bulbis_gardens": "2023-01-23 22:40:01 +0100",
       "byg:sierra_badlands": "2023-01-22 02:57:20 +0100",
       "byg:orchard": "2023-01-13 15:10:59 +0100",
       "byg:red_oak_forest": "2023-01-16 19:11:42 +0100",
@@ -2534,6 +2596,7 @@
       "byg:wailing_garth": "2023-01-15 22:11:23 +0100",
       "byg:crag_gardens": "2023-01-16 19:04:04 +0100",
       "byg:bayou": "2023-01-17 22:33:20 +0100",
+      "byg:ethereal_islands": "2023-01-23 22:38:53 +0100",
       "byg:aspen_forest": "2023-01-13 14:59:43 +0100",
       "byg:cherry_blossom_forest": "2023-01-16 18:54:57 +0100",
       "byg:canadian_shield": "2023-01-16 19:03:33 +0100",
@@ -2653,6 +2716,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-01-23 22:33:24 +0100"
+    },
+    "done": true
+  },
   "apotheosis:spawner/modifier": {
     "criteria": {
       "modifier": "2023-01-21 03:21:20 +0100"
@@ -2753,6 +2822,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-16 18:56:18 +0100"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2023-01-23 22:34:03 +0100"
     },
     "done": true
   },
