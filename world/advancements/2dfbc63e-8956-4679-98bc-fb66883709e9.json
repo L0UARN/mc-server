@@ -30,6 +30,12 @@
     },
     "done": true
   },
+  "mekanism:sawmill": {
+    "criteria": {
+      "precision_sawmill": "2023-01-25 22:42:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-14 15:07:35 +0100"
@@ -541,9 +547,11 @@
   },
   "mekanism:chemical_crystallizer": {
     "criteria": {
-      "chemical_dissolution_chamber": "2023-01-14 23:03:15 +0100"
+      "chemical_dissolution_chamber": "2023-01-14 23:03:15 +0100",
+      "chemical_crystallizer": "2023-01-25 19:20:29 +0100",
+      "chemical_washer": "2023-01-25 19:26:45 +0100"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_blue": {
     "criteria": {
@@ -966,6 +974,13 @@
   "pneumaticcraft:programming_puzzle": {
     "criteria": {
       "0": "2023-01-11 22:09:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2023-01-25 20:22:22 +0100",
+      "has_block": "2023-01-25 20:22:22 +0100"
     },
     "done": true
   },
@@ -1473,9 +1488,11 @@
       "rotten_flesh": "2023-01-23 21:17:43 +0100",
       "glow_berries": "2023-01-14 17:29:37 +0100",
       "dried_kelp": "2023-01-22 21:58:12 +0100",
+      "melon_slice": "2023-01-25 20:22:24 +0100",
       "golden_carrot": "2023-01-15 21:08:42 +0100",
       "cooked_chicken": "2023-01-12 18:56:26 +0100",
-      "cod": "2023-01-15 13:38:45 +0100"
+      "cod": "2023-01-15 13:38:45 +0100",
+      "cooked_salmon": "2023-01-25 19:12:00 +0100"
     },
     "done": false
   },
@@ -1713,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-25 20:22:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:14:58 +0100"
@@ -1848,6 +1871,12 @@
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2023-01-16 18:47:04 +0100"
+    },
+    "done": true
+  },
+  "mekanism:playing_with_fire": {
+    "criteria": {
+      "flamethrower": "2023-01-25 18:46:42 +0100"
     },
     "done": true
   },
@@ -2058,6 +2087,12 @@
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2023-01-11 23:05:26 +0100"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_hopper_pot": {
+    "criteria": {
+      "get_hopper_pot": "2023-01-25 22:39:33 +0100"
     },
     "done": true
   },
@@ -2313,6 +2348,12 @@
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-01-11 21:34:21 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2023-01-25 21:34:28 +0100"
     },
     "done": true
   },
