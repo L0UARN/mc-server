@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_sword": "2023-01-28 23:20:56 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:16:32 +0100"
@@ -44,6 +50,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-21 05:02:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-28 23:47:13 +0100"
     },
     "done": true
   },
@@ -487,9 +499,11 @@
     "criteria": {
       "minecraft:pillager": "2023-01-11 22:00:39 +0100",
       "minecraft:skeleton": "2023-01-11 22:09:58 +0100",
+      "minecraft:vindicator": "2023-01-28 19:51:59 +0100",
       "minecraft:spider": "2023-01-11 21:57:39 +0100",
       "minecraft:creeper": "2023-01-11 22:19:43 +0100",
       "minecraft:slime": "2023-01-11 23:13:22 +0100",
+      "minecraft:evoker": "2023-01-28 19:52:07 +0100",
       "minecraft:phantom": "2023-01-21 15:25:49 +0100",
       "minecraft:zombified_piglin": "2023-01-22 01:42:06 +0100",
       "minecraft:witch": "2023-01-21 02:38:47 +0100",
@@ -923,6 +937,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "in_mansion_mangrove": "2023-01-28 19:51:57 +0100"
+    },
+    "done": false
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:48:50 +0100"
@@ -1080,6 +1100,12 @@
     },
     "done": true
   },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2023-01-28 20:41:04 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
@@ -1113,6 +1139,12 @@
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "paper": "2023-01-11 21:53:47 +0100"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2023-01-28 20:41:35 +0100"
     },
     "done": true
   },
@@ -1747,6 +1779,12 @@
     },
     "done": true
   },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2023-01-28 20:43:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-01-11 21:58:29 +0100"
@@ -2014,6 +2052,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cocoa": "2023-01-26 21:30:56 +0100",
+      "sugar_cane": "2023-01-28 22:40:58 +0100",
       "wheat": "2023-01-18 19:59:14 +0100"
     },
     "done": false
@@ -2384,6 +2423,7 @@
       "byg:twilight_meadow": "2023-01-18 20:43:42 +0100",
       "byg:cherry_blossom_forest": "2023-01-11 22:04:49 +0100",
       "byg:canadian_shield": "2023-01-20 16:16:07 +0100",
+      "byg:baobab_savanna": "2023-01-28 20:32:41 +0100",
       "byg:amaranth_fields": "2023-01-20 16:06:16 +0100",
       "byg:ebony_woods": "2023-01-20 16:06:31 +0100",
       "byg:lush_stacks": "2023-01-13 21:31:21 +0100",
