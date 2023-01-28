@@ -216,6 +216,12 @@
     },
     "done": true
   },
+  "silentgear:salvager": {
+    "criteria": {
+      "get_item": "2023-01-27 21:45:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:14:45 +0100"
@@ -601,6 +607,12 @@
     },
     "done": true
   },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ore": "2023-01-27 23:12:11 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_boat_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:16:32 +0100"
@@ -672,6 +684,12 @@
       "in_village_oak": "2023-01-21 02:32:08 +0100"
     },
     "done": false
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2023-01-28 01:32:24 +0100"
+    },
+    "done": true
   },
   "create:andesite_alloy": {
     "criteria": {
@@ -997,6 +1015,7 @@
       "minecraft:savanna_plateau": "2023-01-20 16:28:54 +0100",
       "minecraft:beach": "2023-01-18 20:32:55 +0100",
       "minecraft:stony_peaks": "2023-01-20 16:28:24 +0100",
+      "minecraft:mangrove_swamp": "2023-01-27 21:17:53 +0100",
       "minecraft:sparse_jungle": "2023-01-13 21:29:57 +0100",
       "minecraft:lukewarm_ocean": "2023-01-11 21:59:07 +0100",
       "minecraft:river": "2023-01-11 22:00:24 +0100",
@@ -1004,6 +1023,7 @@
       "minecraft:dripstone_caves": "2023-01-20 16:11:29 +0100",
       "minecraft:cold_ocean": "2023-01-18 20:24:11 +0100",
       "minecraft:forest": "2023-01-13 22:22:54 +0100",
+      "minecraft:lush_caves": "2023-01-27 19:44:10 +0100",
       "minecraft:deep_cold_ocean": "2023-01-18 20:23:38 +0100",
       "minecraft:ocean": "2023-01-18 20:21:34 +0100",
       "minecraft:jungle": "2023-01-20 16:05:48 +0100",
@@ -1177,6 +1197,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2023-01-11 21:48:50 +0100"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2023-01-27 19:31:55 +0100"
     },
     "done": true
   },
@@ -1625,6 +1651,12 @@
     },
     "done": true
   },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2023-01-27 21:48:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2023-01-22 02:53:36 +0100"
@@ -1634,6 +1666,18 @@
   "evilcraft:second_age": {
     "criteria": {
       "criteria_0": "2023-01-21 03:03:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2023-01-27 21:39:50 +0100"
+    },
+    "done": false
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2023-01-27 21:48:44 +0100"
     },
     "done": true
   },
@@ -1832,6 +1876,12 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:16:32 +0100"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2023-01-27 21:48:44 +0100"
     },
     "done": true
   },
@@ -2061,6 +2111,12 @@
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-26 23:03:02 +0100"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2023-01-27 21:49:15 +0100"
     },
     "done": true
   },
@@ -2463,6 +2519,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-01-27 21:39:50 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
@@ -2532,6 +2594,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:15:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-01-27 22:50:36 +0100"
     },
     "done": true
   },
