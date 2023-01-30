@@ -13,9 +13,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2023-01-21 03:53:53 +0100"
+      "0": "2023-01-21 03:53:53 +0100",
+      "1": "2023-01-31 00:20:20 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_slab_woodcutting": {
     "criteria": {
@@ -636,6 +637,12 @@
   "mcwroofs:recipes/sandstone": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2023-01-30 23:32:35 +0100"
     },
     "done": true
   },

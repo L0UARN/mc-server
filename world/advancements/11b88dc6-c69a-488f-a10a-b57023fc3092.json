@@ -1753,6 +1753,12 @@
     },
     "done": true
   },
+  "create:compacting": {
+    "criteria": {
+      "0": "2023-01-31 00:02:03 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2023-01-11 21:34:13 +0100"
@@ -1978,7 +1984,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2023-01-27 23:54:05 +0100"
+      "minecraft:cow": "2023-01-27 23:54:05 +0100",
+      "minecraft:chicken": "2023-01-31 00:06:19 +0100"
     },
     "done": false
   },
