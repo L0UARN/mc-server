@@ -925,6 +925,12 @@
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2023-02-10 21:36:48 +0100"
+    },
+    "done": true
+  },
   "silentgear:crimson_iron": {
     "criteria": {
       "get_ore": "2023-01-21 15:05:14 +0100",
@@ -1957,6 +1963,12 @@
   "mcwroofs:recipes/granite": {
     "criteria": {
       "has_planks": "2023-01-11 21:53:47 +0100"
+    },
+    "done": true
+  },
+  "mekanism:playing_with_fire": {
+    "criteria": {
+      "flamethrower": "2023-02-10 20:48:02 +0100"
     },
     "done": true
   },

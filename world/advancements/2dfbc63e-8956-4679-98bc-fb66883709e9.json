@@ -187,6 +187,12 @@
     },
     "done": true
   },
+  "mekanism:modification_station": {
+    "criteria": {
+      "modification_station": "2023-02-10 23:23:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_sign_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-18 19:14:58 +0100"
@@ -283,6 +289,12 @@
     },
     "done": true
   },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2023-02-10 22:46:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2023-01-11 22:28:28 +0100"
@@ -310,6 +322,12 @@
   "mekanism:polonium": {
     "criteria": {
       "pellet_polonium": "2023-01-28 00:05:21 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2023-02-10 22:51:36 +0100"
     },
     "done": true
   },
@@ -352,6 +370,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 22:15:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-02-10 22:46:04 +0100"
     },
     "done": true
   },
@@ -461,6 +485,7 @@
       "minecraft:creeper": "2023-01-11 21:57:28 +0100",
       "minecraft:slime": "2023-01-12 14:04:09 +0100",
       "minecraft:phantom": "2023-01-12 18:05:02 +0100",
+      "minecraft:zombified_piglin": "2023-02-10 21:08:45 +0100",
       "minecraft:witch": "2023-01-11 21:57:12 +0100",
       "minecraft:husk": "2023-01-11 21:55:26 +0100",
       "minecraft:cave_spider": "2023-01-12 15:08:56 +0100",
@@ -1641,6 +1666,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2023-02-10 20:40:38 +0100",
+      "minecraft:chicken": "2023-02-10 20:40:03 +0100"
+    },
+    "done": false
+  },
   "trashcans:trash_can": {
     "criteria": {
       "has_item_trash_can": "2023-01-22 19:31:50 +0100"
@@ -2169,6 +2201,12 @@
     },
     "done": true
   },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2023-02-10 23:21:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-01-11 21:31:05 +0100"
@@ -2454,6 +2492,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-02-10 23:18:54 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2023-01-11 21:27:50 +0100"
@@ -2487,6 +2531,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2023-01-23 22:33:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-02-10 20:40:03 +0100"
     },
     "done": true
   },

@@ -1,7 +1,7 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1674846780028L
+	last_login_time: 1676055969837L
 	chunks: {
 		"allthemodium:mining": [
 			{ x: -30, z: 16, time: 1674416343135L }
